@@ -7,12 +7,12 @@ integration in various XMPP clients.
 
 | **Client**  | Tracking Issue | Work in Progress | Testing | Done |
 |-------------|----------------|------------------|---------|------|
-| Conversations | [☑](https://github.com/siacs/Conversations) | ☑ | ☑ | ☑ |
-| Gajim | [☑](https://dev.gajim.org/gajim/gajim/issues/8161) | ☑ | ☑ | ☑ |
-| Profanity | [☑](https://github.com/boothj5/profanity/issues/658) | ☑ | ☑ | ☐ |
-| ChatSecure | [☑](https://github.com/ChatSecure/ChatSecure-iOS/issues/376) | ☑ | ☑ | ☑ |
-| Pidgin | [☑](https://developer.pidgin.im/ticket/16801) | ☐ | ☐ | ☐ |
-| Adium | [☑](https://trac.adium.im/ticket/17090) | ☐ | ☐ | ☐ |
+| Conversations | [☑ #1](https://github.com/siacs/Conversations) | ☑ | ☑ | ☑ |
+| Gajim | [☑ #8161](https://dev.gajim.org/gajim/gajim/issues/8161) | ☑ | ☑ | ☑ |
+| Profanity | [☑ #658](https://github.com/boothj5/profanity/issues/658) | ☑ | ☑ | ☐ |
+| ChatSecure | [☑ #376](https://github.com/ChatSecure/ChatSecure-iOS/issues/376) | ☑ | ☑ | ☑ |
+| Pidgin | [☑ #16801](https://developer.pidgin.im/ticket/16801) | ☐ | ☐ | ☐ |
+| Adium | [☑ #17090](https://trac.adium.im/ticket/17090) | ☐ | ☐ | ☐ |
 
 
 ### Have something to add / update?
