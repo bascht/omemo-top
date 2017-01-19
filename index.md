@@ -8,7 +8,7 @@ integration in various XMPP clients.
 | Conversations | [☑](https://github.com/siacs/Conversations) | ☑ | ☑ | ☑ |
 | Gajim | [☑](https://dev.gajim.org/gajim/gajim/issues/8161) | ☑ | ☑ | ☑ |
 | Profanity | [☑](https://github.com/boothj5/profanity/issues/658) | ☑ | ☑ | ☐ |
-| ChatSecure | [[☑](https://github.com/ChatSecure/ChatSecure-iOS/issues/376) | ☑ | ☑ | ☑ |
+| ChatSecure | [☑](https://github.com/ChatSecure/ChatSecure-iOS/issues/376) | ☑ | ☑ | ☑ |
 | Pidgin | [☑](https://developer.pidgin.im/ticket/16801) | ☐ | ☐ | ☐ |
 | Adium | [☑](https://trac.adium.im/ticket/17090) | ☐ | ☐ | ☐ |
 
