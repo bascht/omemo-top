@@ -12,8 +12,8 @@ integration in various XMPP clients.
 | Profanity | [☑ #658](https://github.com/boothj5/profanity/issues/658) | [☑ $57](https://www.bountysource.com/issues/27781988-omemo-support) | ☑ | ☑ | ☐ |
 | ChatSecure | [☑ #376](https://github.com/ChatSecure/ChatSecure-iOS/issues/376) |  | ☑ | ☑ | ☑ |
 | Adium\*\* | [☑ #17090](https://trac.adium.im/ticket/17090) | ☐ | ☐ | ☐ | ☐ |
-| Jitsi\* | [☑ #199](https://github.com/jitsi/jitsi/issues/199) | [☑ $60](https://www.bountysource.com/issues/29398390-support-for-omemo) | ☑ | ☐ | ☐ |
-| Xabber\* | [☑ #540](https://github.com/redsolution/xabber-android/issues/540) | ☐ | ☑ | ☐ | ☐ |
+| Jitsi\* | [☑ #199](https://github.com/jitsi/jitsi/issues/199) | [☑ $60](https://www.bountysource.com/issues/29398390-support-for-omemo) | ☐ | ☐ | ☐ |
+| Xabber\* | [☑ #540](https://github.com/redsolution/xabber-android/issues/540) | ☐ | ☐ | ☐ | ☐ |
 | Yaxim\* | [☑ #197](https://github.com/pfleidi/yaxim/issues/197) | ☐ | ☐ | ☐ | ☐ |
 | Kontalk\* | [☑ #132](https://github.com/kontalk/androidclient/issues/132) | ☐ | ☐ | ☐ | ☐ |
 | Anderchat\* | | ☐ | ☐ | ☐ | ☐ |
