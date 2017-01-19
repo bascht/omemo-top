@@ -23,6 +23,7 @@ integration in various XMPP clients.
 | Finch\*\* | | ☐ | ☐ | ☐ | ☐ |
 | Instantbird\*\* | | ☐ | ☐ | ☐ | ☐ |
 | Miranda NG | [☑ #1178](http://trac.miranda-ng.org/ticket/1178) | [☑ $30](https://www.bountysource.com/issues/32298989-support-for-omemo-encryption) | ☐ | ☐ | ☐ |
+| Swift | ☐ | ☐ | ☐ | ☐ | ☐ |
 
 \* Using [Smack](https://igniterealtime.org/projects/smack/index.jsp) [#743](https://issues.igniterealtime.org/browse/SMACK-743)<br/>
 \*\* Using [libpurple](https://developer.pidgin.im/wiki/WhatIsLibpurple) [#16801](https://developer.pidgin.im/ticket/16801)
