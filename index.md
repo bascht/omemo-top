@@ -11,16 +11,17 @@ integration in various XMPP clients.
 | Gajim | [☑ #8161](https://dev.gajim.org/gajim/gajim/issues/8161) | ☑ | ☑ | ☑ |
 | Profanity | [☑ #658](https://github.com/boothj5/profanity/issues/658) | ☑ | ☑ | ☐ |
 | ChatSecure | [☑ #376](https://github.com/ChatSecure/ChatSecure-iOS/issues/376) | ☑ | ☑ | ☑ |
-| Adium | [☑ #17090](https://trac.adium.im/ticket/17090) | ☐ | ☐ | ☐ |
+| Adium\*\* | [☑ #17090](https://trac.adium.im/ticket/17090) | ☐ | ☐ | ☐ |
+| Jitsi\* | [☑ #199](https://github.com/jitsi/jitsi/issues/199) | ☑ | ☐ | ☐ |
 | Xabber\* | | ☑ | ☐ | ☐ |
 | Yaxim\* | | ☐ | ☐ | ☐ |
 | Kontalk\* | | ☐ | ☐ | ☐ |
 | Anderchat\* | | ☐ | ☐ | ☐ |
+| spark\* | | ☐ | ☐ | ☐ |
 | zom\* | | ☐ | ☐ | ☐ |
 | Pidgin\*\* | [☑ #16801](https://developer.pidgin.im/ticket/16801) | ☑ | ☐ | ☐ |
-| Jitsi\*\* | [☑ #199](https://github.com/jitsi/jitsi/issues/199) | ☑ | ☐ | ☐ |
-| spark\*\* | | ☐ | ☐ | ☐ |
 | Finch\*\* | | ☐ | ☐ | ☐ |
+| Instantbird\*\* | | ☐ | ☐ | ☐ |
 
 \* Using [Smack](https://igniterealtime.org/projects/smack/index.jsp) [#743](https://issues.igniterealtime.org/browse/SMACK-743)<br/>
 \*\* Using [libpurple](https://developer.pidgin.im/wiki/WhatIsLibpurple) [#16801](https://developer.pidgin.im/ticket/16801)
