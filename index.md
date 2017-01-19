@@ -22,6 +22,7 @@ integration in various XMPP clients.
 | Pidgin\*\* | [☑ #16801](https://developer.pidgin.im/ticket/16801) | ☑ | ☐ | ☐ |
 | Finch\*\* | | ☐ | ☐ | ☐ |
 | Instantbird\*\* | | ☐ | ☐ | ☐ |
+| Miranda NG | [☑ #1178](http://trac.miranda-ng.org/ticket/1178) | ☐ | ☐ | ☐ |
 
 \* Using [Smack](https://igniterealtime.org/projects/smack/index.jsp) [#743](https://issues.igniterealtime.org/browse/SMACK-743)<br/>
 \*\* Using [libpurple](https://developer.pidgin.im/wiki/WhatIsLibpurple) [#16801](https://developer.pidgin.im/ticket/16801)
