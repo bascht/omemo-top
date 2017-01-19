@@ -1,6 +1,8 @@
 Tracking the progress of [OMEMO](http://conversations.im/omemo/)
 integration in various XMPP clients.
 
+[![OMEMO Logo](./images/omemo_logo.png)](http://omemo.top)
+
 # Client Progress
 
 | **Client**  | Tracking Issue | Work in Progress | Testing | Done |
