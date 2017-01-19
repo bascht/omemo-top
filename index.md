@@ -12,18 +12,18 @@ integration in various XMPP clients.
 | Profanity | [☑ #658](https://github.com/boothj5/profanity/issues/658) | ☑ | ☑ | ☐ |
 | ChatSecure | [☑ #376](https://github.com/ChatSecure/ChatSecure-iOS/issues/376) | ☑ | ☑ | ☑ |
 | Adium | [☑ #17090](https://trac.adium.im/ticket/17090) | ☐ | ☐ | ☐ |
-| Xabber* | | ☑ | ☐ | ☐ |
-| Yaxim* | | ☐ | ☐ | ☐ |
-| Kontalk* | | ☐ | ☐ | ☐ |
-| Anderchat* | | ☐ | ☐ | ☐ |
-| zom* | | ☐ | ☐ | ☐ |
-| Pidgin** | [☑ #16801](https://developer.pidgin.im/ticket/16801) | ☑ | ☐ | ☐ |
-| Jitsi** | [☑ #199](https://github.com/jitsi/jitsi/issues/199) | ☑ | ☐ | ☐ |
-| spark** | | ☐ | ☐ | ☐ |
-| Finch** | | ☐ | ☐ | ☐ |
+| Xabber\* | | ☑ | ☐ | ☐ |
+| Yaxim\* | | ☐ | ☐ | ☐ |
+| Kontalk\* | | ☐ | ☐ | ☐ |
+| Anderchat\* | | ☐ | ☐ | ☐ |
+| zom\* | | ☐ | ☐ | ☐ |
+| Pidgin\*\* | [☑ #16801](https://developer.pidgin.im/ticket/16801) | ☑ | ☐ | ☐ |
+| Jitsi\*\* | [☑ #199](https://github.com/jitsi/jitsi/issues/199) | ☑ | ☐ | ☐ |
+| spark\*\* | | ☐ | ☐ | ☐ |
+| Finch\*\* | | ☐ | ☐ | ☐ |
 
-* Using [Smack](https://igniterealtime.org/projects/smack/index.jsp) [#743](https://issues.igniterealtime.org/browse/SMACK-743)<br/>
-** Using [libpurple](https://developer.pidgin.im/wiki/WhatIsLibpurple) [#16801](https://developer.pidgin.im/ticket/16801)
+\* Using [Smack](https://igniterealtime.org/projects/smack/index.jsp) [#743](https://issues.igniterealtime.org/browse/SMACK-743)<br/>
+\*\* Using [libpurple](https://developer.pidgin.im/wiki/WhatIsLibpurple) [#16801](https://developer.pidgin.im/ticket/16801)
 
 ### Have something to add / update?
 
