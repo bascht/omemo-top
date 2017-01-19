@@ -1,9 +1,12 @@
-## Are we OMEMO yet?
+# Are we OMEMO yet?
 
-### Testing
+Tracking the progress of [OMEMO](http://conversations.im/omemo/) integration in various XMPP clients.
 
-| d  | a  |d  d | y  | y  |
-|---|---|---|---|---|
-| y  | a  | s  | g  | x |
-|  g | d  | d | a  | g  |
-|   r|  w |e   |  f | d  |
+## Testing
+
+| Client  | Status  |
+|---------|---------|
+| Conversations  | Done  |
+| Gajim | Done |
+| ChatSecure | Almost there |
+| Adium | Nope |
