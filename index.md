@@ -9,7 +9,7 @@ integration in various XMPP clients.
 |-------------|----------------|--------|------------------|---------|------|
 | Conversations | [☑ #1](https://github.com/siacs/Conversations) |  | ☑ | ☑ | ☑ |
 | Gajim | [☑ #8161](https://dev.gajim.org/gajim/gajim/issues/8161) |  | ☑ | ☑ | ☑ |
-| Profanity | [☑ #658](https://github.com/boothj5/profanity/issues/658) |  | ☑ | ☑ | ☐ |
+| Profanity | [☑ #658](https://github.com/boothj5/profanity/issues/658) | [☑ $57](https://www.bountysource.com/issues/27781988-omemo-support) | ☑ | ☑ | ☐ |
 | ChatSecure | [☑ #376](https://github.com/ChatSecure/ChatSecure-iOS/issues/376) |  | ☑ | ☑ | ☑ |
 | Adium\*\* | [☑ #17090](https://trac.adium.im/ticket/17090) | ☐ | ☐ | ☐ | ☐ |
 | Jitsi\* | [☑ #199](https://github.com/jitsi/jitsi/issues/199) | [☑ $60](https://www.bountysource.com/issues/29398390-support-for-omemo) | ☑ | ☐ | ☐ |
