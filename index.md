@@ -11,28 +11,28 @@ integration in various XMPP clients.
 | Gajim | [☑ #8161](https://dev.gajim.org/gajim/gajim/issues/8161) |  | ☑ | ☑ | ☑ |
 | Profanity | [☑ #658](https://github.com/boothj5/profanity/issues/658) | [☑ $57](https://www.bountysource.com/issues/27781988-omemo-support) | ☑ | ☑ | ☐ |
 | ChatSecure | [☑ #376](https://github.com/ChatSecure/ChatSecure-iOS/issues/376) |  | ☑ | ☑ | ☑ |
-| Adium\*\* | [☑ #17090](https://trac.adium.im/ticket/17090) | ☐ | ☐ | ☐ | ☐ |
-| Jitsi\* | [☑ #199](https://github.com/jitsi/jitsi/issues/199) | [☑ $60](https://www.bountysource.com/issues/29398390-support-for-omemo) | ☐ | ☐ | ☐ |
-| Xabber\* | [☑ #540](https://github.com/redsolution/xabber-android/issues/540) | ☐ | ☐ | ☐ | ☐ |
-| Yaxim\* | [☑ #197](https://github.com/pfleidi/yaxim/issues/197) | ☐ | ☐ | ☐ | ☐ |
-| Kontalk\* | [☑ #132](https://github.com/kontalk/androidclient/issues/132) | ☐ | ☐ | ☐ | ☐ |
-| Anderchat\* | | ☐ | ☐ | ☐ | ☐ |
-| spark\* | | ☐ | ☐ | ☐ | ☐ |
-| zom\* | [☑ #119](https://github.com/zom/Zom-Android/issues/119) | ☐ | ☐ | ☐ | ☐ |
-| Pidgin\*\* | [☑ #16801](https://developer.pidgin.im/ticket/16801) | ☐ | ☑ | ☐ | ☐ |
-| Finch\*\* | | ☐ | ☐ | ☐ | ☐ |
-| Instantbird\*\* | | ☐ | ☐ | ☐ | ☐ |
+| Adium ² | [☑ #17090](https://trac.adium.im/ticket/17090) | ☐ | ☐ | ☐ | ☐ |
+| Jitsi ¹ | [☑ #199](https://github.com/jitsi/jitsi/issues/199) | [☑ $60](https://www.bountysource.com/issues/29398390-support-for-omemo) | ☐ | ☐ | ☐ |
+| Xabber ¹ | [☑ #540](https://github.com/redsolution/xabber-android/issues/540) | ☐ | ☐ | ☐ | ☐ |
+| Yaxim ¹ | [☑ #197](https://github.com/pfleidi/yaxim/issues/197) | ☐ | ☐ | ☐ | ☐ |
+| Kontalk ¹ | [☑ #132](https://github.com/kontalk/androidclient/issues/132) | ☐ | ☐ | ☐ | ☐ |
+| Anderchat ¹ | | ☐ | ☐ | ☐ | ☐ |
+| spark ¹ | | ☐ | ☐ | ☐ | ☐ |
+| zom ¹ | [☑ #119](https://github.com/zom/Zom-Android/issues/119) | ☐ | ☐ | ☐ | ☐ |
+| Pidgin ² | [☑ #16801](https://developer.pidgin.im/ticket/16801) | ☐ | ☑ | ☐ | ☐ |
+| Finch ² | | ☐ | ☐ | ☐ | ☐ |
+| Instantbird ² | | ☐ | ☐ | ☐ | ☐ |
 | Miranda NG | [☑ #1178](http://trac.miranda-ng.org/ticket/1178) | [☑ $30](https://www.bountysource.com/issues/32298989-support-for-omemo-encryption) | ☐ | ☐ | ☐ |
 | Swift | ☐ | ☐ | ☐ | ☐ | ☐ |
 | Mcabber | [☑ #156](https://bitbucket.org/McKael/mcabber-crew/issues/156/omemo-support) | ☐ | ☐ | ☐ | ☐ | 
 | Psi | [☑ #252](https://github.com/psi-im/psi/issues/252) |  | ☐ | ☐ | ☐ |
 | Psi+ | [☑ #10](https://github.com/psi-plus/plugins/issues/10) |  | ☐ | ☐ | ☐ |
 | JSXC | [☑ #228](https://github.com/jsxc/jsxc/issues/228) | ☐ | ☐ | ☐ | ☐ |
-| Empathy\*\*\* | [☑ #757029](https://bugzilla.gnome.org/show_bug.cgi?id=757029) | ☐ | ☐ | ☐ | ☐ |
+| Empathy ³ | [☑ #757029](https://bugzilla.gnome.org/show_bug.cgi?id=757029) | ☐ | ☐ | ☐ | ☐ |
 
-\* Using [Smack](https://igniterealtime.org/projects/smack/index.jsp) [#743](https://issues.igniterealtime.org/browse/SMACK-743)<br/>
-\*\* Using [libpurple](https://developer.pidgin.im/wiki/WhatIsLibpurple) [#16801](https://developer.pidgin.im/ticket/16801)<br/>
-\*\*\* Using [Telepathy](https://telepathy.freedesktop.org/) [#93090](https://bugs.freedesktop.org/show_bug.cgi?id=93090)
+¹ Using [Smack](https://igniterealtime.org/projects/smack/index.jsp) [#743](https://issues.igniterealtime.org/browse/SMACK-743)<br/>
+² Using [libpurple](https://developer.pidgin.im/wiki/WhatIsLibpurple) [#16801](https://developer.pidgin.im/ticket/16801)<br/>
+³ Using [Telepathy](https://telepathy.freedesktop.org/) [#93090](https://bugs.freedesktop.org/show_bug.cgi?id=93090)
 
 ### Have something to add / update?
 
