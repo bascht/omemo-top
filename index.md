@@ -23,6 +23,7 @@ integration in various XMPP clients.
 | Finch\*\* | | ☐ | ☐ | ☐ | ☐ |
 | Instantbird\*\* | | ☐ | ☐ | ☐ | ☐ |
 | Miranda NG | [☑ #1178](http://trac.miranda-ng.org/ticket/1178) | [☑ $30](https://www.bountysource.com/issues/32298989-support-for-omemo-encryption) | ☐ | ☐ | ☐ |
+| Swift | ☐ | ☐ | ☐ | ☐ | ☐ |
 | Mcabber | [☑ #156](https://bitbucket.org/McKael/mcabber-crew/issues/156/omemo-support) | ☐ | ☐ | ☐ | ☐ | 
 | Psi | [☑ #252](https://github.com/psi-im/psi/issues/252) |  | ☐ | ☐ | ☐ |
 | Psi+ | [☑ #10](https://github.com/psi-plus/plugins/issues/10) |  | ☐ | ☐ | ☐ |
