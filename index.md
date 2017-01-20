@@ -26,6 +26,7 @@ integration in various XMPP clients.
 | Mcabber | [☑ #156](https://bitbucket.org/McKael/mcabber-crew/issues/156/omemo-support) | ☐ | ☐ | ☐ | ☐ | 
 | Psi | |  | ☐ | ☐ | ☐ |
 | Psi+ | [☑ #10](https://github.com/psi-plus/plugins/issues/10) |  | ☐ | ☐ | ☐ |
+| JSXC | [☑ #228](https://github.com/jsxc/jsxc/issues/228) | ☐ | ☐ | ☐ | ☐ |
 
 \* Using [Smack](https://igniterealtime.org/projects/smack/index.jsp) [#743](https://issues.igniterealtime.org/browse/SMACK-743)<br/>
 \*\* Using [libpurple](https://developer.pidgin.im/wiki/WhatIsLibpurple) [#16801](https://developer.pidgin.im/ticket/16801)
