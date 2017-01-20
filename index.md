@@ -27,9 +27,11 @@ integration in various XMPP clients.
 | Mcabber | [☑ #156](https://bitbucket.org/McKael/mcabber-crew/issues/156/omemo-support) | ☐ | ☐ | ☐ | ☐ | 
 | Psi | [☑ #252](https://github.com/psi-im/psi/issues/252) |  | ☐ | ☐ | ☐ |
 | Psi+ | [☑ #10](https://github.com/psi-plus/plugins/issues/10) |  | ☐ | ☐ | ☐ |
+| Empathy\*\*\* | [☑ #757029](https://bugzilla.gnome.org/show_bug.cgi?id=757029) | ☐ | ☐ | ☐ | ☐ |
 
 \* Using [Smack](https://igniterealtime.org/projects/smack/index.jsp) [#743](https://issues.igniterealtime.org/browse/SMACK-743)<br/>
-\*\* Using [libpurple](https://developer.pidgin.im/wiki/WhatIsLibpurple) [#16801](https://developer.pidgin.im/ticket/16801)
+\*\* Using [libpurple](https://developer.pidgin.im/wiki/WhatIsLibpurple) [#16801](https://developer.pidgin.im/ticket/16801)<br/>
+\*\*\* Using [Telepathy](https://telepathy.freedesktop.org/) [#93090](https://bugs.freedesktop.org/show_bug.cgi?id=93090)
 
 ### Have something to add / update?
 
