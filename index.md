@@ -17,18 +17,19 @@ integration in various XMPP clients.
 | Yaxim ¹ | [☑ #197](https://github.com/pfleidi/yaxim/issues/197) | ☐ | ☐ | ☐ | ☐ |
 | Kontalk ¹ | [☑ #132](https://github.com/kontalk/androidclient/issues/132) | ☐ | ☐ | ☐ | ☐ |
 | Anderchat ¹ | | ☐ | ☐ | ☐ | ☐ |
-| spark ¹ | | ☐ | ☐ | ☐ | ☐ |
-| zom ¹ | [☑ #119](https://github.com/zom/Zom-Android/issues/119) | ☐ | ☐ | ☐ | ☐ |
+| Spark ¹ | [☑ #291](https://github.com/igniterealtime/Spark/issues/291) | ☐ | ☐ | ☐ | ☐ |
+| Zom ¹ | [☑ #119](https://github.com/zom/Zom-Android/issues/119) | ☐ | ☐ | ☐ | ☐ |
 | Pidgin ² | [☑ #16801](https://developer.pidgin.im/ticket/16801) | ☐ | ☑ | ☐ | ☐ |
 | Finch ² | | ☐ | ☐ | ☐ | ☐ |
 | Instantbird ² | | ☐ | ☐ | ☐ | ☐ |
 | Miranda NG | [☑ #1178](http://trac.miranda-ng.org/ticket/1178) | [☑ $30](https://www.bountysource.com/issues/32298989-support-for-omemo-encryption) | ☐ | ☐ | ☐ |
-| Swift | ☐ | ☐ | ☐ | ☐ | ☐ |
+| Swift | [☑ #37](https://github.com/swift/swift/issues/37) | ☐ | ☐ | ☐ | ☐ |
 | Mcabber | [☑ #156](https://bitbucket.org/McKael/mcabber-crew/issues/156/omemo-support) | ☐ | ☐ | ☐ | ☐ | 
 | Psi | [☑ #252](https://github.com/psi-im/psi/issues/252) |  | ☐ | ☐ | ☐ |
 | Psi+ | [☑ #10](https://github.com/psi-plus/plugins/issues/10) |  | ☐ | ☐ | ☐ |
 | JSXC | [☑ #228](https://github.com/jsxc/jsxc/issues/228) | ☐ | ☐ | ☐ | ☐ |
 | Empathy ³ | [☑ #757029](https://bugzilla.gnome.org/show_bug.cgi?id=757029) | ☐ | ☐ | ☐ | ☐ |
+| Jackline | [☑ #153](https://github.com/hannesm/jackline/issues/153) | ☐ | ☐ | ☐ | ☐ |
 
 ¹ Using [Smack](https://igniterealtime.org/projects/smack/index.jsp) [#743](https://issues.igniterealtime.org/browse/SMACK-743)<br/>
 ² Using [libpurple](https://developer.pidgin.im/wiki/WhatIsLibpurple) [#16801](https://developer.pidgin.im/ticket/16801)<br/>
