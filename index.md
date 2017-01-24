@@ -21,7 +21,7 @@ integration in various XMPP clients.
 | Zom ¹ | [☑ #119](https://github.com/zom/Zom-Android/issues/119) | ☐ | ☐ | ☐ | ☐ |
 | Pidgin ² | [☑ #16801](https://developer.pidgin.im/ticket/16801) | ☐ | ☑ | ☐ | ☐ |
 | Finch ² | | ☐ | ☐ | ☐ | ☐ |
-| Instantbird ² | | ☐ | ☐ | ☐ | ☐ |
+| Instantbird ² | [☑ #1237416](https://bugzilla.mozilla.org/show_bug.cgi?id=1237416) | ☐ | ☐ | ☐ | ☐ |
 | Miranda NG | [☑ #1178](http://trac.miranda-ng.org/ticket/1178) | [☑ $30](https://www.bountysource.com/issues/32298989-support-for-omemo-encryption) | ☐ | ☐ | ☐ |
 | Movim | [☑ #63](https://github.com/movim/movim/issues/63) | ☐ | ☑ | ☐ | ☐ |
 | Swift | [☑ #37](https://github.com/swift/swift/issues/37) | ☐ | ☐ | ☐ | ☐ |
@@ -32,6 +32,8 @@ integration in various XMPP clients.
 | Empathy ³ | [☑ #757029](https://bugzilla.gnome.org/show_bug.cgi?id=757029) | ☐ | ☐ | ☐ | ☐ |
 | Jackline | [☑ #153](https://github.com/hannesm/jackline/issues/153) | ☐ | ☐ | ☐ | ☐ |
 | BitlBee | [☑ #1239](https://bugs.bitlbee.org/ticket/1239) | ☐ | ☐ | ☐ | ☐ |
+| Tor Messenger | [☑ #17457](https://trac.torproject.org/projects/tor/ticket/17457) | ☐ | ☐ | ☐ | ☐ |
+| Salut à Toi | [☑ #180](https://bugs.goffi.org/show_bug.cgi?id=180) | ☐ | ☐ | ☐ | ☐ |
 
 ¹ Using [Smack](https://igniterealtime.org/projects/smack/index.jsp) [#743](https://issues.igniterealtime.org/browse/SMACK-743)<br/>
 ² Using [libpurple](https://developer.pidgin.im/wiki/WhatIsLibpurple) [#16801](https://developer.pidgin.im/ticket/16801)<br/>
