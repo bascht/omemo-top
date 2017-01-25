@@ -34,11 +34,13 @@ integration in various XMPP clients.
 | BitlBee | [☑ #1239](https://bugs.bitlbee.org/ticket/1239) | ☐ | ☐ | ☐ | ☐ |
 | Tor Messenger | [☑ #17457](https://trac.torproject.org/projects/tor/ticket/17457) | ☐ | ☐ | ☐ | ☐ |
 | Salut à Toi | [☑ #180](https://bugs.goffi.org/show_bug.cgi?id=180) | ☐ | ☐ | ☐ | ☐ |
+| irssi⁵ | [☑ #8](https://github.com/cdidier/irssi-xmpp/issues/8) | ☐ | ☐ | ☐ | ☐ |
 
 ¹ Using [Smack](https://igniterealtime.org/projects/smack/index.jsp) [#743](https://issues.igniterealtime.org/browse/SMACK-743)<br/>
 ² Using [libpurple](https://developer.pidgin.im/wiki/WhatIsLibpurple) [#16801](https://developer.pidgin.im/ticket/16801)<br/>
 ³ Using [Telepathy](https://telepathy.freedesktop.org/) [#93090](https://bugs.freedesktop.org/show_bug.cgi?id=93090)<br/>
 ⁴ Ticket closed due to currently not planned, lacking resources etc.
+⁵ Using [irssi-xmpp](https://github.com/cdidier/irssi-xmpp)
 
 ### Have something to add / update?
 
