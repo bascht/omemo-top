@@ -37,8 +37,8 @@ integration in various XMPP clients.
 
 ¹ Using [Smack](https://igniterealtime.org/projects/smack/index.jsp) [#743](https://issues.igniterealtime.org/browse/SMACK-743)<br/>
 ² Using [libpurple](https://developer.pidgin.im/wiki/WhatIsLibpurple) [#16801](https://developer.pidgin.im/ticket/16801)<br/>
-³ Using [Telepathy](https://telepathy.freedesktop.org/) [#93090](https://bugs.freedesktop.org/show_bug.cgi?id=93090)
-⁴ Ticket closed due to currently not planned, lacking resources etc.
+³ Using [Telepathy](https://telepathy.freedesktop.org/) [#93090](https://bugs.freedesktop.org/show_bug.cgi?id=93090)<br/>
+⁴ Ticket closed due to currently not planned, lacking resources etc.
 
 ### Have something to add / update?
 
