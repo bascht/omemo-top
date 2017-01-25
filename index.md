@@ -9,7 +9,7 @@ integration in various XMPP clients.
 |-------------|----------------|--------|------------------|---------|------|
 | Conversations | [☑ #1](https://github.com/siacs/Conversations) |  | ☑ | ☑ | ☑ |
 | Gajim | [☑ #8161](https://dev.gajim.org/gajim/gajim/issues/8161) |  | ☑ | ☑ | ☑ |
-| Profanity | [☑ #658](https://github.com/boothj5/profanity/issues/658) | [☑ $57](https://www.bountysource.com/issues/27781988-omemo-support) | ☑ | ☑ | ☐ |
+| Profanity | [☑ #658](https://github.com/boothj5/profanity/issues/658) | [☑ $72](https://www.bountysource.com/issues/27781988-omemo-support) | ☑ | ☑ | ☐ |
 | ChatSecure | [☑ #376](https://github.com/ChatSecure/ChatSecure-iOS/issues/376) |  | ☑ | ☑ | ☑ |
 | Adium ² | [☑ #17090](https://trac.adium.im/ticket/17090) | ☐ | ☐ | ☐ | ☐ |
 | Jitsi ¹ | [☑ #199](https://github.com/jitsi/jitsi/issues/199) | [☑ $60](https://www.bountysource.com/issues/29398390-support-for-omemo) | ☐ | ☐ | ☐ |
@@ -19,11 +19,11 @@ integration in various XMPP clients.
 | Anderchat ¹ | | ☐ | ☐ | ☐ | ☐ |
 | Spark ¹ | [☑ #291](https://github.com/igniterealtime/Spark/issues/291) | ☐ | ☐ | ☐ | ☐ |
 | Zom ¹ | [☑ #119](https://github.com/zom/Zom-Android/issues/119) | ☐ | ☐ | ☐ | ☐ |
-| Pidgin ² | [☑ #16801](https://developer.pidgin.im/ticket/16801) | ☐ | ☑ | ☐ | ☐ |
+| Pidgin ² | [☑ #16801](https://developer.pidgin.im/ticket/16801) | [☑ $20](https://www.bountysource.com/issues/28287404-add-omemo-encryption-support-to-xmpp/backers) | ☑ | ☐ | ☐ |
 | Finch ² | | ☐ | ☐ | ☐ | ☐ |
 | Instantbird ² | [☑ #1237416](https://bugzilla.mozilla.org/show_bug.cgi?id=1237416) | ☐ | ☐ | ☐ | ☐ |
 | Miranda NG | [☑ #1178](http://trac.miranda-ng.org/ticket/1178) | [☑ $30](https://www.bountysource.com/issues/32298989-support-for-omemo-encryption) | ☐ | ☐ | ☐ |
-| Movim | [☑ #63](https://github.com/movim/movim/issues/63) | ☐ | ☑ | ☐ | ☐ |
+| Movim | [☑ #63](https://github.com/movim/movim/issues/63) | [☑ $30](https://www.bountysource.com/issues/27538550-add-omemo-encryption) | ☑ | ☐ | ☐ |
 | Swift | ~~[☑ #37](https://github.com/swift/swift/issues/37)~~⁴  | ☐ | ☐ | ☐ | ☐ |
 | Mcabber | [☑ #156](https://bitbucket.org/McKael/mcabber-crew/issues/156/omemo-support) | ☐ | ☐ | ☐ | ☐ | 
 | Psi | [☑ #252](https://github.com/psi-im/psi/issues/252) |  | ☐ | ☐ | ☐ |
