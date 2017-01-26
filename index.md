@@ -26,8 +26,8 @@ integration in various XMPP clients.
 | Movim | [☑ #63](https://github.com/movim/movim/issues/63) | [☑ $30](https://www.bountysource.com/issues/27538550-add-omemo-encryption) | ☑ | ☐ | ☐ |
 | Swift | ~~[☑ #37](https://github.com/swift/swift/issues/37)~~ ⁴  | ☐ | ☐ | ☐ | ☐ |
 | Mcabber | [☑ #156](https://bitbucket.org/McKael/mcabber-crew/issues/156/omemo-support) | ☐ | ☐ | ☐ | ☐ | 
-| Psi | [☑ #252](https://github.com/psi-im/psi/issues/252) |  | ☐ | ☐ | ☐ |
-| Psi+ | [☑ #10](https://github.com/psi-plus/plugins/issues/10) |  | ☐ | ☐ | ☐ |
+| Psi | [☑ #252](https://github.com/psi-im/psi/issues/252) | ☐ | ☐ | ☐ | ☐ |
+| Psi+ | [☑ #10](https://github.com/psi-plus/plugins/issues/10) | ☐ | ☐ | ☐ | ☐ |
 | JSXC | [☑ #228](https://github.com/jsxc/jsxc/issues/228) | ☐ | ☐ | ☐ | ☐ |
 | Empathy ³ | [☑ #757029](https://bugzilla.gnome.org/show_bug.cgi?id=757029) | ☐ | ☐ | ☐ | ☐ |
 | Jackline | ~~[☑ #153](https://github.com/hannesm/jackline/issues/153)~~ ⁴ | ☐ | ☐ | ☐ | ☐ |
