@@ -28,7 +28,7 @@ integration in various XMPP clients.
 | Mcabber | [☑ #156](https://bitbucket.org/McKael/mcabber-crew/issues/156/omemo-support) | ☐ | ☐ | ☐ | ☐ | 
 | Psi | [☑ #252](https://github.com/psi-im/psi/issues/252) | ☐ | ☐ | ☐ | ☐ |
 | Psi+ | [☑ #10](https://github.com/psi-plus/plugins/issues/10) | ☐ | ☐ | ☐ | ☐ |
-| JSXC | [☑ #228](https://github.com/jsxc/jsxc/issues/228) | ☐ | ☐ | ☐ | ☐ |
+| JSXC | [☑ #228](https://github.com/jsxc/jsxc/issues/228) | [☑ $0](https://www.bountysource.com/issues/27207998-feature-request-for-omemo) | ☐ | ☐ | ☐ |
 | Empathy ³ | [☑ #757029](https://bugzilla.gnome.org/show_bug.cgi?id=757029) | ☐ | ☐ | ☐ | ☐ |
 | Jackline | ~~[☑ #153](https://github.com/hannesm/jackline/issues/153)~~ ⁴ | ☐ | ☐ | ☐ | ☐ |
 | BitlBee | [☑ #1239](https://bugs.bitlbee.org/ticket/1239) | ☐ | ☐ | ☐ | ☐ |
@@ -41,7 +41,6 @@ integration in various XMPP clients.
 | Kaiwa | [☑ #63](https://github.com/digicoop/kaiwa/issues/63) | [☑ $0](https://www.bountysource.com/issues/27208012-feature-request-for-omemo) | ☐ | ☐ | ☐ |
 | Converse.js | [☑ #497](https://github.com/jcbrand/converse.js/issues/497) | [☑ $0](https://www.bountysource.com/issues/27208020-xep-xxxx-omemo-encryption) | ☐ | ☐ | ☐ |
 | Monal | [☑ #9](https://github.com/anurodhp/Monal/issues/9) | [☑ $0](https://www.bountysource.com/issues/30757290-xep-xxxx-omemo-encryption) | ☐ | ☐ | ☐ |
-| JSXC | [☑ #228](https://github.com/jsxc/jsxc/issues/228) | [☑ $0](https://www.bountysource.com/issues/27207998-feature-request-for-omemo) | ☐ | ☐ | ☐ |
 
 ¹ Using [Smack](https://igniterealtime.org/projects/smack/index.jsp) [#743](https://issues.igniterealtime.org/browse/SMACK-743)<br/>
 ² Using [libpurple](https://developer.pidgin.im/wiki/WhatIsLibpurple) [#16801](https://developer.pidgin.im/ticket/16801)<br/>
