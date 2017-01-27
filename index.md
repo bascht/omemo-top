@@ -19,7 +19,7 @@ integration in various XMPP clients.
 | Anderchat ¹ | | ☐ | ☐ | ☐ | ☐ |
 | Spark ¹ | [☑ #291](https://github.com/igniterealtime/Spark/issues/291) | ☐ | ☐ | ☐ | ☐ |
 | Zom ¹ | [☑ #119](https://github.com/zom/Zom-Android/issues/119) | [☑ $0](https://www.bountysource.com/issues/36057445-implement-omemo-axolotl) | ☐ | ☐ | ☐ |
-| Pidgin ² | [☑ #16801](https://developer.pidgin.im/ticket/16801) | ☐ | ☑ | ☐ | ☐ |
+| Pidgin ² | [☑ #16801](https://developer.pidgin.im/ticket/16801) | [☑ $20](https://www.bountysource.com/issues/28287404-add-omemo-encryption-support-to-xmpp/backers) | ☑ | ☐ | ☐ |
 | Finch ² | | ☐ | ☐ | ☐ | ☐ |
 | Instantbird ² | [☑ #1237416](https://bugzilla.mozilla.org/show_bug.cgi?id=1237416) | ☐ | ☐ | ☐ | ☐ |
 | Miranda NG | [☑ #1178](http://trac.miranda-ng.org/ticket/1178) | [☑ $30](https://www.bountysource.com/issues/32298989-support-for-omemo-encryption) | ☐ | ☐ | ☐ |
