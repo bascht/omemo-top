@@ -20,6 +20,7 @@ integration in various XMPP clients.
 | Spark ¹ | [☑ #291](https://github.com/igniterealtime/Spark/issues/291) | ☐ | ☐ | ☐ | ☐ |
 | Zom ¹ | [☑ #119](https://github.com/zom/Zom-Android/issues/119) | [☑ $0](https://www.bountysource.com/issues/36057445-implement-omemo-axolotl) | ☐ | ☐ | ☐ |
 | Pidgin ² | [☑ #16801](https://developer.pidgin.im/ticket/16801) | [☑ $20](https://www.bountysource.com/issues/28287404-add-omemo-encryption-support-to-xmpp/backers) | ☑ | ☐ | ☐ |
+| Pidgin ⁶ | |  | ☑ | ☑ | ☑ |
 | Finch ² | | ☐ | ☐ | ☐ | ☐ |
 | Instantbird ² | [☑ #1237416](https://bugzilla.mozilla.org/show_bug.cgi?id=1237416) | ☐ | ☐ | ☐ | ☐ |
 | Miranda NG | [☑ #1178](http://trac.miranda-ng.org/ticket/1178) | [☑ $30](https://www.bountysource.com/issues/32298989-support-for-omemo-encryption) | ☐ | ☐ | ☐ |
@@ -49,7 +50,8 @@ integration in various XMPP clients.
 ² Using [libpurple](https://developer.pidgin.im/wiki/WhatIsLibpurple) [#16801](https://developer.pidgin.im/ticket/16801)<br/>
 ³ Using [Telepathy](https://telepathy.freedesktop.org/) [#93090](https://bugs.freedesktop.org/show_bug.cgi?id=93090)<br/>
 ⁴ Ticket closed due to currently not planned, lacking resources etc.<br/>
-⁵ Using [irssi-xmpp](https://github.com/cdidier/irssi-xmpp)
+⁵ Using [irssi-xmpp](https://github.com/cdidier/irssi-xmpp)<br/>
+⁶ Using [lurch](https://github.com/gkdr/lurch)
 
 ### Have something to add / update?
 
