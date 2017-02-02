@@ -31,7 +31,7 @@ integration in various XMPP clients.
 | Psi+ | [☑ #10](https://github.com/psi-plus/plugins/issues/10) | ☐ | ☐ | ☐ | ☐ |
 | JSXC | [☑ #228](https://github.com/jsxc/jsxc/issues/228) | [☑ $0](https://www.bountysource.com/issues/27207998-feature-request-for-omemo) | ☑ | ☐ | ☐ |
 | Empathy ³ | [☑ #757029](https://bugzilla.gnome.org/show_bug.cgi?id=757029) | ☐ | ☐ | ☐ | ☐ |
-| Jackline | ~~[☑ #153](https://github.com/hannesm/jackline/issues/153)~~ ⁴ | ☐ | ☐ | ☐ | ☐ |
+| jackline | [☑ #153](https://github.com/hannesm/jackline/issues/153) | ☐ | ☐ | ☐ | ☐ |
 | BitlBee | [☑ #1239](https://bugs.bitlbee.org/ticket/1239) | ☐ | ☐ | ☐ | ☐ |
 | Tor Messenger | [☑ #17457](https://trac.torproject.org/projects/tor/ticket/17457) | ☐ | ☐ | ☐ | ☐ |
 | Salut à Toi | [☑ #180](https://bugs.goffi.org/show_bug.cgi?id=180) | ☐ | ☐ | ☐ | ☐ |
