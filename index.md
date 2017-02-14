@@ -1,10 +1,12 @@
 ---
 layout: default
 ---
+
+<a href="https://omemo.top"><img src="./assets/images/omemo_logo.png"
+id="omemo_logo"/></a>
+
 Tracking the progress of [OMEMO](https://conversations.im/omemo/)
 integration in various XMPP clients.
-
-[![OMEMO Logo](./images/omemo_logo.png)](https://omemo.top)
 
 # Client Progress
 
