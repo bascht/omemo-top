@@ -28,8 +28,8 @@ integration in various XMPP clients.
     <td>{{ client.name }}</td>
     <td>
       {% if client.tracking_issue %}
-      <a href="{{ client.tracking_issue }}">{{ client.tracking_issue | issue_id }}</a>
-      {% else %}☐{% endif %}
+      <a href="{{ client.tracking_issue }}">✪</a>
+      {% else %}😢{% endif %}
     </td>
     <td>
       {% if client.bountysource %}
@@ -38,9 +38,9 @@ integration in various XMPP clients.
       </a>
       {% else %}<img class="nobordernonation" src="https://img.shields.io/badge/bountysource-none%20yet-orange.svg" />{% endif %}
     </td>
-    <td class="state {{ client.work_in_progress | default: false | upcase}}">{% if client.work_in_progress %}☑{% else %}☐{% endif %}</td>
-    <td class="state {{ client.testing | default: false | upcase}}">{% if client.testing %}☑{% else %}☐{% endif %}</td>
-    <td class="state {{ client.done | default: false | upcase}}">{% if client.done %}☑{% else %}☐{% endif %}</td>
+    <td class="state {{ client.work_in_progress | default: false | upcase}}">{% if client.work_in_progress %}✓{% else %}✗{% endif %}</td>
+    <td class="state {{ client.testing | default: false | upcase}}">{% if client.testing %}✓{% else %}✗{% endif %}</td>
+    <td class="state {{ client.done | default: false | upcase}}">{% if client.done %}✓{% else %}✗{% endif %}</td>
   </tr>
   {% endfor %}
 </table>
