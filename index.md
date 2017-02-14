@@ -1,16 +1,16 @@
-Tracking the progress of [OMEMO](http://conversations.im/omemo/)
+Tracking the progress of [OMEMO](https://conversations.im/omemo/)
 integration in various XMPP clients.
 
-[![OMEMO Logo](./images/omemo_logo.png)](http://omemo.top)
+[![OMEMO Logo](./images/omemo_logo.png)](https://omemo.top)
 
 # Client Progress
 
 | **Client**  | Tracking Issue | Bounty | Work in Progress | Testing | Done |
 |-------------|----------------|--------|------------------|---------|------|
-| Conversations | [☑ #1](https://github.com/siacs/Conversations) |  | ☑ | ☑ | ☑ |
-| Gajim | [☑ #8161](https://dev.gajim.org/gajim/gajim/issues/8161) |  | ☑ | ☑ | ☑ |
+| Conversations | | ☐ | ☑ | ☑ | ☑ |
+| Gajim | [☑ #8161](https://dev.gajim.org/gajim/gajim/issues/8161) | ☐ | ☑ | ☑ | ☑ |
 | Profanity | [☑ #658](https://github.com/boothj5/profanity/issues/658) | [☑ $72](https://www.bountysource.com/issues/27781988-omemo-support) | ☑ | ☑ | ☐ |
-| ChatSecure | [☑ #376](https://github.com/ChatSecure/ChatSecure-iOS/issues/376) |  | ☑ | ☑ | ☑ |
+| ChatSecure | [☑ #376](https://github.com/ChatSecure/ChatSecure-iOS/issues/376) | ☐ | ☑ | ☑ | ☑ |
 | Adium ² | [☑ #17090](https://trac.adium.im/ticket/17090) | ☐ | ☐ | ☐ | ☐ |
 | Jitsi ¹ | [☑ #199](https://github.com/jitsi/jitsi/issues/199) | [☑ $60](https://www.bountysource.com/issues/29398390-support-for-omemo) | ☐ | ☐ | ☐ |
 | Xabber ¹ | [☑ #540](https://github.com/redsolution/xabber-android/issues/540) | [☑ $0](https://www.bountysource.com/issues/26498485-add-support-for-omemo-encyrption) | ☐ | ☐ | ☐ |
@@ -20,13 +20,13 @@ integration in various XMPP clients.
 | Spark ¹ | [☑ #291](https://github.com/igniterealtime/Spark/issues/291) | ☐ | ☐ | ☐ | ☐ |
 | Zom ¹ | [☑ #119](https://github.com/zom/Zom-Android/issues/119) | [☑ $0](https://www.bountysource.com/issues/36057445-implement-omemo-axolotl) | ☐ | ☐ | ☐ |
 | Pidgin ² | [☑ #16801](https://developer.pidgin.im/ticket/16801) | [☑ $20](https://www.bountysource.com/issues/28287404-add-omemo-encryption-support-to-xmpp/backers) | ☑ | ☐ | ☐ |
-| Pidgin ⁶ | |  | ☑ | ☑ | ☑ |
+| Pidgin ⁶ | | ☐ | ☑ | ☑ | ☑ |
 | Finch ² | | ☐ | ☐ | ☐ | ☐ |
 | Instantbird ² | [☑ #1237416](https://bugzilla.mozilla.org/show_bug.cgi?id=1237416) | ☐ | ☐ | ☐ | ☐ |
 | Miranda NG | [☑ #1178](http://trac.miranda-ng.org/ticket/1178) | [☑ $30](https://www.bountysource.com/issues/32298989-support-for-omemo-encryption) | ☐ | ☐ | ☐ |
 | Movim | [☑ #63](https://github.com/movim/movim/issues/63) | [☑ $30](https://www.bountysource.com/issues/27538550-add-omemo-encryption) | ☑ | ☐ | ☐ |
 | Swift | ~~[☑ #37](https://github.com/swift/swift/issues/37)~~ ⁴  | ☐ | ☐ | ☐ | ☐ |
-| Mcabber | [☑ #156](https://bitbucket.org/McKael/mcabber-crew/issues/156/omemo-support) | ☐ | ☐ | ☐ | ☐ | 
+| Mcabber | [☑ #156](https://bitbucket.org/McKael/mcabber-crew/issues/156/omemo-support) | ☐ | ☐ | ☐ | ☐ |
 | Psi | [☑ #252](https://github.com/psi-im/psi/issues/252) | ☐ | ☐ | ☐ | ☐ |
 | Psi+ | [☑ #10](https://github.com/psi-plus/plugins/issues/10) | ☐ | ☐ | ☐ | ☐ |
 | JSXC | [☑ #228](https://github.com/jsxc/jsxc/issues/228) | [☑ $0](https://www.bountysource.com/issues/27207998-feature-request-for-omemo) | ☑ | ☐ | ☐ |
@@ -58,5 +58,5 @@ Please send a [pull request](https://github.com/bascht/omemo-top).
 
 ---
 
-A project by [@renevolution](http://github.com/renevolution)
+A project by [@renevolution](https://github.com/renevolution)
 and [@bascht](https://github.com/bascht).
