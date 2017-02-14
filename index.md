@@ -3,10 +3,47 @@ layout: default
 ---
 
 <a href="https://omemo.top"><img src="./assets/images/omemo_logo.png"
-id="omemo_logo"/></a>
+id="omemo_logo" class="nobordernonation" /></a>
 
 Tracking the progress of [OMEMO](https://conversations.im/omemo/)
 integration in various XMPP clients.
+
+# Client Progress
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Client</strong></th>
+      <th>Tracking Issue</th>
+      <th>Bounty</th>
+      <th>Work in Progress</th>
+      <th>Testing</th>
+      <th>Done</th>
+    </tr>
+  </thead>
+
+{% for client_hash in site.data.clients %}
+{% assign client = client_hash[1] %}
+  <tr>
+    <td>{{ client.name }}</td>
+    <td>
+      {% if client.tracking_issue %}
+      <a href="{{ client.tracking_issue }}">{{ client.tracking_issue | issue_id }}</a>
+      {% else %}☐{% endif %}
+    </td>
+    <td>
+      {% if client.bountysource %}
+      <a href="https://www.bountysource.com/issues/{{ client.bountysource }}">
+        <img class="nobordernonation" src="https://api.bountysource.com/badge/issue?issue_id={{ client.bountysource }}" />
+      </a>
+      {% else %}<img class="nobordernonation" src="https://img.shields.io/badge/bountysource-none%20yet-orange.svg" />{% endif %}
+    </td>
+    <td class="state {{ client.work_in_progress | default: false | upcase}}">{% if client.work_in_progress %}☑{% else %}☐{% endif %}</td>
+    <td class="state {{ client.testing | default: false | upcase}}">{% if client.testing %}☑{% else %}☐{% endif %}</td>
+    <td class="state {{ client.done | default: false | upcase}}">{% if client.done %}☑{% else %}☐{% endif %}</td>
+  </tr>
+  {% endfor %}
+</table>
 
 # Client Progress
 
@@ -21,6 +58,7 @@ integration in various XMPP clients.
 | Xabber ¹ | [☑ #540](https://github.com/redsolution/xabber-android/issues/540) | [☑ $0](https://www.bountysource.com/issues/26498485-add-support-for-omemo-encyrption) | ☐ | ☐ | ☐ |
 | Yaxim ¹ | [☑ #197](https://github.com/pfleidi/yaxim/issues/197) | ☐ | ☐ | ☐ | ☐ |
 | Kontalk ¹ | [☑ #132](https://github.com/kontalk/androidclient/issues/132) | [☑ $10](https://www.bountysource.com/issues/18980767-pfs-otr-omemo-encryption) | ☐ | ☐ | ☐ |
+
 | Anderchat ¹ | | ☐ | ☐ | ☐ | ☐ |
 | Spark ¹ | [☑ #291](https://github.com/igniterealtime/Spark/issues/291) | ☐ | ☐ | ☐ | ☐ |
 | Zom ¹ | [☑ #119](https://github.com/zom/Zom-Android/issues/119) | [☑ $0](https://www.bountysource.com/issues/36057445-implement-omemo-axolotl) | ☐ | ☐ | ☐ |
