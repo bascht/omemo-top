@@ -8,6 +8,28 @@
     margin-right: auto;
     text-align: center;
     width: 50%;
+}
+
+.nobordernonation {
     box-shadow: none;
     border: none;
 }
+
+table {
+    td {
+        vertical-align: middle;
+        &.state {
+            font-weight: bold;
+            color: white;
+            text-align: center;
+            &.TRUE {
+                background-color: #a1b56c;
+            }
+            &.FALSE {
+                background-color: #ab4642;
+            }
+        }
+    }
+}
+
+
