@@ -1,3 +1,6 @@
+---
+layout: default
+---
 Tracking the progress of [OMEMO](https://conversations.im/omemo/)
 integration in various XMPP clients.
 
