@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <a href="https://omemo.top"><img src="./assets/images/omemo_logo.png"
 id="omemo_logo" class="nobordernonation" /></a>
 
@@ -10,13 +9,13 @@ integration in various XMPP clients.
 
 # Client Progress
 
-<table>
+<table id="clients">
   <thead>
     <tr>
       <th><strong>Client</strong></th>
       <th>Tracking Issue</th>
       <th>Bounty</th>
-      <th>Work in Progress</th>
+      <th data-sort-default>Work in Progress</th>
       <th>Testing</th>
       <th>Done</th>
     </tr>
@@ -59,3 +58,10 @@ Please send a [pull request](https://github.com/bascht/omemo-top).
 
 A project by [@renevolution](https://github.com/renevolution)
 and [@bascht](https://github.com/bascht).
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.0.0/tablesort.min.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function(event) {
+  new Tablesort(document.getElementById('clients'));
+});
+</script>
