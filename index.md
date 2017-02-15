@@ -59,9 +59,11 @@ Please send a [pull request](https://github.com/bascht/omemo-top).
 A project by [@renevolution](https://github.com/renevolution)
 and [@bascht](https://github.com/bascht).
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.0.0/tablesort.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/tablesort/5.0.0/tablesort.min.js"></script>
 <script>
 document.addEventListener("DOMContentLoaded", function(event) {
-  new Tablesort(document.getElementById('clients'));
+  if (typeof(Tablesort) !== 'undefined') {
+    new Tablesort(document.getElementById('clients'));
+  }
 });
 </script>
