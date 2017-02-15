@@ -197,7 +197,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (= 120)
   jekyll (~> 3.3)
-  jekyll-theme-merlot
+  jekyll-theme-cayman
 
 BUNDLED WITH
    1.14.4
