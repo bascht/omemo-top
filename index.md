@@ -15,9 +15,7 @@ integration in various XMPP clients.
       <th><strong>Client</strong></th>
       <th>Tracking Issue</th>
       <th>Bounty</th>
-      <th data-sort-default>Work in Progress</th>
-      <th>Testing</th>
-      <th>Done</th>
+      <th data-sort-default>Status</th>
     </tr>
   </thead>
 
@@ -37,9 +35,7 @@ integration in various XMPP clients.
       </a>
       {% else %}<img class="nobordernonation" src="https://img.shields.io/badge/bountysource-none%20yet-orange.svg" />{% endif %}
     </td>
-    <td class="state {{ client.work_in_progress | default: false | upcase}}">{% if client.work_in_progress %}✓{% else %}✗{% endif %}</td>
-    <td class="state {{ client.testing | default: false | upcase}}">{% if client.testing %}✓{% else %}✗{% endif %}</td>
-    <td class="state {{ client.done | default: false | upcase}}">{% if client.done %}✓{% else %}✗{% endif %}</td>
+    <td>{% client.status %}</td>
   </tr>
   {% endfor %}
 </table>
