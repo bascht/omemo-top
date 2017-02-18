@@ -35,7 +35,7 @@ integration in various XMPP clients.
       </a>
       {% else %}<img class="nobordernonation" src="https://img.shields.io/badge/bountysource-none%20yet-orange.svg" />{% endif %}
     </td>
-    <td>{% client.status %}</td>
+    <td>{{ client.status }}</td>
   </tr>
   {% endfor %}
 </table>
