@@ -15,9 +15,9 @@ integration in various XMPP clients.
       <th><strong>Client</strong></th>
       <th>Tracking Issue</th>
       <th>Bounty</th>
-      <th data-sort-default>Work in Progress</th>
-      <th>Testing</th>
-      <th>Done</th>
+      <th id="wipHeader" >Work in Progress</th>
+      <th id="testingHeader" >Testing</th>
+      <th id="doneHeader" data-sort-default>Done</th>
     </tr>
   </thead>
 
@@ -61,9 +61,39 @@ and [@bascht](https://github.com/bascht).
 
 <script src="//cdnjs.cloudflare.com/ajax/libs/tablesort/5.0.0/tablesort.min.js"></script>
 <script>
+var table;
+var tablesorter;
+var sortCount = 0;
+var nextSortHeader = document.getElementById('doneHeader');
+
 document.addEventListener("DOMContentLoaded", function(event) {
+  table = document.getElementById('clients');
+    
   if (typeof(Tablesort) !== 'undefined') {
-    new Tablesort(document.getElementById('clients'));
+    tablesorter = new Tablesort(table);
   }
+
+  table.addEventListener('afterSort', function() {
+    /* In order to sort by Done, Testing and WIP in sequence,
+       we need to run the sort function in sequence */
+        
+    if (sortCount == 0) {
+      /* Sort by "Testing" */
+      sortCount++;    
+      var nextSortHeader = document.getElementById('testingHeader');
+      tablesorter.sortTable(nextSortHeader);
+    } 
+    else if (sortCount == 1) {
+      /* Sort by "WIP" */
+      sortCount++;    
+      var nextSortHeader = document.getElementById('wipHeader');
+      tablesorter.sortTable(nextSortHeader);      
+    }
+  });
+  
+  /* Start initial sorting by "DONE" */
+  tablesorter.sortTable(nextSortHeader, !0);
+  
+  
 });
 </script>
