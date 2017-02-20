@@ -12,12 +12,12 @@ integration in various XMPP clients.
 <table id="clients">
   <thead>
     <tr>
-      <th><strong>Client</strong></th>
+      <th data-sort-default><strong>Client</strong></th>
       <th>Tracking Issue</th>
       <th>Bounty</th>
       <th id="wipHeader" >Work in Progress</th>
       <th id="testingHeader" >Testing</th>
-      <th id="doneHeader" data-sort-default>Done</th>
+      <th id="doneHeader">Done</th>
     </tr>
   </thead>
 
@@ -92,7 +92,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
   });
   
   /* Start initial sorting by "DONE" */
-  tablesorter.sortTable(nextSortHeader, !0);
+  tablesorter.sortTable(nextSortHeader);
   
   
 });
