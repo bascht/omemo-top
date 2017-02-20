@@ -15,9 +15,7 @@ integration in various XMPP clients.
       <th data-sort-default><strong>Client</strong></th>
       <th>Tracking Issue</th>
       <th>Bounty</th>
-      <th id="wipHeader" >Work in Progress</th>
-      <th id="testingHeader" >Testing</th>
-      <th id="doneHeader">Done</th>
+      <th id="progressHeader">Progress</th>
     </tr>
   </thead>
 
@@ -37,9 +35,16 @@ integration in various XMPP clients.
       </a>
       {% else %}<img class="nobordernonation" src="https://img.shields.io/badge/bountysource-none%20yet-orange.svg" />{% endif %}
     </td>
-    <td class="state {{ client.work_in_progress | default: false | upcase}}">{% if client.work_in_progress %}✓{% else %}✗{% endif %}</td>
-    <td class="state {{ client.testing | default: false | upcase}}">{% if client.testing %}✓{% else %}✗{% endif %}</td>
-    <td class="state {{ client.done | default: false | upcase}}">{% if client.done %}✓{% else %}✗{% endif %}</td>
+    
+    {% if client.status %}
+      <td data-sort="{{ client.status }}">
+        <progress max="100" value="{{ client.status }}"></progress>
+      </td>
+    {% else %}
+      <td data-sort="0">
+        <progress max="100" value="0"></progress>
+      </td>
+    {% endif %}
   </tr>
   {% endfor %}
 </table>
@@ -60,11 +65,12 @@ A project by [@renevolution](https://github.com/renevolution)
 and [@bascht](https://github.com/bascht).
 
 <script src="//cdnjs.cloudflare.com/ajax/libs/tablesort/5.0.0/tablesort.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/tablesort/5.0.0/src/sorts/tablesort.number.js"></script>
 <script>
 var table;
 var tablesorter;
 var sortCount = 0;
-var nextSortHeader = document.getElementById('doneHeader');
+var nextSortHeader = document.getElementById('progressHeader');
 
 document.addEventListener("DOMContentLoaded", function(event) {
   table = document.getElementById('clients');
@@ -72,27 +78,9 @@ document.addEventListener("DOMContentLoaded", function(event) {
   if (typeof(Tablesort) !== 'undefined') {
     tablesorter = new Tablesort(table);
   }
-
-  table.addEventListener('afterSort', function() {
-    /* In order to sort by Done, Testing and WIP in sequence,
-       we need to run the sort function in sequence */
-        
-    if (sortCount == 0) {
-      /* Sort by "Testing" */
-      sortCount++;    
-      var nextSortHeader = document.getElementById('testingHeader');
-      tablesorter.sortTable(nextSortHeader);
-    } 
-    else if (sortCount == 1) {
-      /* Sort by "WIP" */
-      sortCount++;    
-      var nextSortHeader = document.getElementById('wipHeader');
-      tablesorter.sortTable(nextSortHeader);      
-    }
-  });
   
-  /* Start initial sorting by "DONE" */
-  tablesorter.sortTable(nextSortHeader);
+  /* Start initial sorting by "Status" */
+  tablesorter.sortTable(nextSortHeader, !0);
   
   
 });
