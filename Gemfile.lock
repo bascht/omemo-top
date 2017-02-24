@@ -198,6 +198,7 @@ DEPENDENCIES
   github-pages (= 123)
   jekyll (~> 3.3)
   jekyll-theme-cayman
+  nokogiri
 
 BUNDLED WITH
    1.14.5

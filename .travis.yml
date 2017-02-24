@@ -1,0 +1,6 @@
+language: ruby
+sudo: false
+cache: bundler
+rvm:
+  - 2.3.3
+script: "bundle exec ruby test.rb"
