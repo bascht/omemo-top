@@ -1,5 +1,7 @@
 # OMEMO.top
 
+![Build Status](https://travis-ci.org/bascht/omemo-top.svg?branch=master)
+
 This is the Jekyll site repository
 behind [omemo.top](https://omemo.top).
 
