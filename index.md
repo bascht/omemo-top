@@ -15,9 +15,7 @@ integration in various XMPP clients.
       <th><strong>Client</strong></th>
       <th>Tracking Issue</th>
       <th>Bounty</th>
-      <th data-sort-default>Work in Progress</th>
-      <th>Testing</th>
-      <th>Done</th>
+      <th data-sort-default>Status</th>
     </tr>
   </thead>
 
@@ -37,9 +35,7 @@ integration in various XMPP clients.
       </a>
       {% else %}<img class="nobordernonation" src="https://img.shields.io/badge/bountysource-none%20yet-orange.svg" />{% endif %}
     </td>
-    <td class="state {{ client.work_in_progress | default: false | upcase}}">{% if client.work_in_progress %}✓{% else %}✗{% endif %}</td>
-    <td class="state {{ client.testing | default: false | upcase}}">{% if client.testing %}✓{% else %}✗{% endif %}</td>
-    <td class="state {{ client.done | default: false | upcase}}">{% if client.done %}✓{% else %}✗{% endif %}</td>
+    <td>{{ client.status }}</td>
   </tr>
   {% endfor %}
 </table>
@@ -48,7 +44,7 @@ integration in various XMPP clients.
 
 * Anderchat, Spark and Zom can use [Smack](https://igniterealtime.org/projects/smack/index.jsp) [#743](https://issues.igniterealtime.org/browse/SMACK-743)<br/>
 * Empathy has a separate upstream issue open at [Telepathy](https://telepathy.freedesktop.org/): [#93090](https://bugs.freedesktop.org/show_bug.cgi?id=93090)<br/>
-* Pidgin has an alternative Plugin named [lurch](https://github.com/gkdr/lurch).
+* Another Pidgin plugin is in progress: [libpurple-omemo-plugin](https://git.imp.fu-berlin.de/mancho/libpurple-omemo-plugin).
 
 ### Have something to add / update?
 

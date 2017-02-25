@@ -1,7 +1,4 @@
 name: Pidgin
 tracking_issue: https://developer.pidgin.im/ticket/16801
 bountysource: 28287404
-work_in_progress: yes
-work_in_progress: yes
-testing: yes
-done: yes
+status: done (2017-02-14)

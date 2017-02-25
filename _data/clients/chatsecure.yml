@@ -1,5 +1,3 @@
 name: ChatSecure
 tracking_issue: "https://github.com/ChatSecure/ChatSecure-iOS/issues/376"
-work_in_progress: yes
-testing: yes
-done: yes
+status: done (2017-01-24)

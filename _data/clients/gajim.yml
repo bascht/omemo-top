@@ -1,6 +1,4 @@
 name: Gajim
 url: https://gajim.org/
 tracking_issue: "https://dev.gajim.org/gajim/gajim/issues/8161"
-work_in_progress: yes
-testing: yes
-done: yes
+status: done (2016-05-10)
