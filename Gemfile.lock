@@ -19,13 +19,13 @@ GEM
     execjs (2.7.0)
     faraday (0.11.0)
       multipart-post (>= 1.2, < 3)
-    ffi (1.9.17)
+    ffi (1.9.18)
     forwardable-extended (2.6.0)
     gemoji (3.0.0)
-    github-pages (123)
+    github-pages (127)
       activesupport (= 4.2.7)
-      github-pages-health-check (= 1.3.0)
-      jekyll (= 3.3.1)
+      github-pages-health-check (= 1.3.3)
+      jekyll (= 3.4.1)
       jekyll-avatar (= 0.4.2)
       jekyll-coffeescript (= 1.0.1)
       jekyll-default-layout (= 0.1.4)
@@ -65,7 +65,7 @@ GEM
       nokogiri (= 1.6.8.1)
       rouge (= 1.11.1)
       terminal-table (~> 1.4)
-    github-pages-health-check (1.3.0)
+    github-pages-health-check (1.3.3)
       addressable (~> 2.3)
       net-dns (~> 0.8)
       octokit (~> 4.0)
@@ -75,7 +75,7 @@ GEM
       activesupport (>= 2)
       nokogiri (>= 1.4)
     i18n (0.8.1)
-    jekyll (3.3.1)
+    jekyll (3.4.1)
       addressable (~> 2.4)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
@@ -148,7 +148,7 @@ GEM
     jekyll-titles-from-headings (0.1.4)
       jekyll (~> 3.3)
     jekyll-watch (1.5.0)
-      listen (~> 3.0, < 3.1)
+      listen (~> 3.0)
     jemoji (0.8.0)
       activesupport (~> 4.0)
       gemoji (~> 3.0)
@@ -195,7 +195,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (= 123)
+  github-pages (= 127)
   jekyll (~> 3.3)
   jekyll-theme-cayman
   nokogiri
