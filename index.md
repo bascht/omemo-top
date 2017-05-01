@@ -26,7 +26,7 @@ integration in various XMPP clients.
     <td>
       {% if client.tracking_issue %}
       <a href="{{ client.tracking_issue }}">✪</a>
-      {% else %}😢{% endif %}
+      {% else %}–{% endif %}
     </td>
     <td>
       {% if client.bountysource %}
