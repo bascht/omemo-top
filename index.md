@@ -22,7 +22,7 @@ integration in various XMPP clients.
 {% for client_hash in site.data.clients %}
 {% assign client = client_hash[1] %}
   <tr>
-    <td>{{ client.name }}</td>
+    <td><a href="{{ client.url }}" alt="{{ client.name }} website">{{ client.name }}</a></td>
     <td>
       {% if client.tracking_issue %}
       <a href="{{ client.tracking_issue }}">✪</a>

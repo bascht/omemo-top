@@ -1,7 +1,8 @@
 name: Miranda NG
+url: http://www.miranda-ng.org/
 tracking_issue: https://github.com/miranda-ng/miranda-ng/issues/529
 bountysource: 32298989
 work_in_progress: yes
 testing: no
 done: no
-status: 30
+status: 33
