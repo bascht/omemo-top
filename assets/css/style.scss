@@ -2,6 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+
+body {
+    line-height: normal;
+}
 #omemo_logo {
     display: block;
     margin-left: auto;
