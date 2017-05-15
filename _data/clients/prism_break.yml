@@ -2,3 +2,7 @@ name: PRISM Break
 url: https://prism-break.org/
 tracking_issue: https://github.com/nylira/prism-break/issues/1476
 bountysource: 29726757
+work_in_progress: yes
+testing: yes
+done: yes
+status: 100
