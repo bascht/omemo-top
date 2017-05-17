@@ -22,7 +22,7 @@ integration in various XMPP clients.
 {% for client_hash in site.data.clients %}
 {% assign client = client_hash[1] %}
   <tr>
-    <td>{{ client.name }}</td>
+    <td><a href="{{ client.url }}" alt="{{ client.name }} website">{{ client.name }}</a></td>
     <td>
       {% if client.tracking_issue %}
       <a href="{{ client.tracking_issue }}">✪</a>
@@ -35,16 +35,10 @@ integration in various XMPP clients.
       </a>
       {% else %}<img class="nobordernonation" src="https://img.shields.io/badge/bountysource-none%20yet-orange.svg" />{% endif %}
     </td>
-    
-    {% if client.status %}
-      <td data-sort="{{ client.status }}">
-        <progress max="100" value="{{ client.status }}"></progress>
-      </td>
-    {% else %}
-      <td data-sort="0">
-        <progress max="100" value="0"></progress>
-      </td>
-    {% endif %}
+
+    <td data-sort="{{ client.status | plus: 0 }}" class="progress">
+      <progress max="100" value="{{ client.status | plus: 0 }}"></progress>
+    </td>
   </tr>
   {% endfor %}
 </table>
