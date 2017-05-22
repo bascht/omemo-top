@@ -164,7 +164,7 @@ GEM
     minitest (5.10.2)
     multipart-post (2.0.0)
     net-dns (0.8.0)
-    nokogiri (1.7.1)
+    nokogiri (1.7.2)
       mini_portile2 (~> 2.1.0)
     octokit (4.7.0)
       sawyer (~> 0.8.0, >= 0.5.3)
@@ -176,7 +176,7 @@ GEM
       ffi (>= 0.5.0)
     rouge (1.11.1)
     safe_yaml (1.0.4)
-    sass (3.4.23)
+    sass (3.4.24)
     sawyer (0.8.1)
       addressable (>= 2.3.5, < 2.6)
       faraday (~> 0.8, < 1.0)
@@ -193,7 +193,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (= 138)
+  github-pages
   jekyll (~> 3.3)
   jekyll-theme-cayman
   nokogiri
