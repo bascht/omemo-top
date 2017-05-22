@@ -146,7 +146,7 @@ GEM
     jekyll-titles-from-headings (0.1.5)
       jekyll (~> 3.3)
     jekyll-watch (1.5.0)
-      listen (~> 3.0)
+      listen (~> 3.0, < 3.1)
     jemoji (0.8.0)
       activesupport (~> 4.0)
       gemoji (~> 3.0)
@@ -199,4 +199,4 @@ DEPENDENCIES
   nokogiri
 
 BUNDLED WITH
-   1.14.6
+   1.15.0
