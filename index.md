@@ -4,8 +4,10 @@ layout: default
 <a href="https://omemo.top"><img src="./assets/images/omemo_logo.png"
 id="omemo_logo" class="nobordernonation" /></a>
 
-Tracking the progress of [OMEMO](https://conversations.im/omemo/)
-integration in various XMPP clients.
+This list displays the progress of [OMEMO](https://conversations.im/omemo/)
+integration in various XMPP clients. If you cannot find your favourite
+client in here, please [send a pull request](#have-something-to-add--update).
+The last update was **{{ 'now' | date: "%Y-%m-%d" }}**.
 
 # Client Progress
 
@@ -51,7 +53,10 @@ integration in various XMPP clients.
 
 ### Have something to add / update?
 
-Please send a [pull request](https://github.com/bascht/omemo-top).
+The source of this website is available on
+[GitHub](https://github.com/bascht/omemo-top). If you notice obsolete
+/ inaccurate information, or want to help us work on this site, please
+send a pull request.
 
 ---
 
