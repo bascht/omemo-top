@@ -15,7 +15,7 @@ The last update was **{{ 'now' | date: "%Y-%m-%d" }}**.
   <thead>
     <tr>
       <th data-sort-default><strong>Client</strong></th>
-      <th>Tracking Issue</th>
+      <th><i class="fa fa-ticket"∆ aria-hidden="true"></i></th>
       <th>Bounty</th>
       <th id="progressHeader">Progress</th>
     </tr>
