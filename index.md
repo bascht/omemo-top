@@ -15,7 +15,9 @@ The last update was **{{ 'now' | date: "%Y-%m-%d" }}**.
   <thead>
     <tr>
       <th data-sort-default><strong>Client</strong></th>
-      <th>Tracking Issue</th>
+      <th>Issue</th>
+      <th>Features</th>
+      <th>Operating Systems</th>
       <th>Bounty</th>
       <th id="progressHeader">Progress</th>
     </tr>
@@ -27,8 +29,19 @@ The last update was **{{ 'now' | date: "%Y-%m-%d" }}**.
     <td><a href="{{ client.url }}" alt="{{ client.name }} website">{{ client.name }}</a></td>
     <td>
       {% if client.tracking_issue %}
-      <a href="{{ client.tracking_issue }}">✪</a>
+      <a href="{{ client.tracking_issue }}"><i class="fa fa-ticket" aria-hidden="true"></i></a>
       {% else %}😢{% endif %}
+    </td>
+    <td>
+      {% if client.features.single_chat %}<i class="fa fa-user-secret" aria-hidden="true"></i>{% endif %}
+      {% if client.features.group_chat %}<i class="fa fa-users" aria-hidden="true"></i>{% endif %}
+      {% if client.features.encrypted_files %}<i class="fa fa-files-o" aria-hidden="true"></i>{% endif %}
+    </td>
+    <td>
+      {% if client.os.mac or client.os.ios %}<i class="fa fa-apple" aria-hidden="true"></i>{% endif %}
+      {% if client.os.win %}<i class="fa fa-windows" aria-hidden="true"></i>{% endif %}
+      {% if client.os.linux %}<i class="fa fa-linux" aria-hidden="true"></i>{% endif %}
+      {% if client.os.android %}<i class="fa fa-android" aria-hidden="true"></i>{% endif %}
     </td>
     <td>
       {% if client.bountysource %}

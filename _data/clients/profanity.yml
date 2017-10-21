@@ -1,6 +1,16 @@
 name: Profanity
 url: http://profanity.im/
 tracking_issue: https://github.com/boothj5/profanity/issues/658
+features:
+  single_chat: true
+  group_chat: true
+  encrypted_files: true
+os:
+  mac: true
+  win: true
+  linux: true
+  android: true
+  ios: true
 bountysource: 27781988
 work_in_progress: yes
 testing: yes

@@ -1,6 +1,16 @@
 name: Conversations
 url: https://conversations.im
 tracking_issue: ""
+features:
+  single_chat: true
+  group_chat: true
+  encrypted_files: true
+os:
+  mac: false
+  win: false
+  linux: false
+  android: true
+
 work_in_progress: yes
 testing: yes
 done: yes
