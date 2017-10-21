@@ -38,7 +38,7 @@ The last update was **{{ 'now' | date: "%Y-%m-%d" }}**.
       {% if client.features.encrypted_files %}<i class="fa fa-files-o" aria-hidden="true"></i>{% endif %}
     </td>
     <td>
-      {% if client.os.mac || client.os.ios %}<i class="fa fa-apple" aria-hidden="true"></i>{% endif %}
+      {% if client.os.mac or client.os.ios %}<i class="fa fa-apple" aria-hidden="true"></i>{% endif %}
       {% if client.os.win %}<i class="fa fa-windows" aria-hidden="true"></i>{% endif %}
       {% if client.os.linux %}<i class="fa fa-linux" aria-hidden="true"></i>{% endif %}
       {% if client.os.android %}<i class="fa fa-android" aria-hidden="true"></i>{% endif %}
