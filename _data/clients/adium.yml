@@ -1,5 +1,8 @@
 name: Adium
 url: https://adium.im/
 tracking_issue: "https://trac.adium.im/ticket/17090"
+features:
+  single_chat: true
+  group_chat: false
 testing: yes
 status: 50
