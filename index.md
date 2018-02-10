@@ -23,27 +23,15 @@ The last update was **{{ 'now' | date: "%Y-%m-%d" }}**.
 
 {% for client_hash in site.data.clients %}
 {% assign client = client_hash[1] %}
-  <tr>
-    <td><a href="{{ client.url }}" alt="{{ client.name }} website">{{ client.name }}</a></td>
-    <td>
-      {% if client.tracking_issue %}
-      <a href="{{ client.tracking_issue }}">✪</a>
-      {% else %}😢{% endif %}
-    </td>
-    <td>
-      {% if client.bountysource %}
-      <a href="https://www.bountysource.com/issues/{{ client.bountysource }}">
-        <img class="nobordernonation" src="https://api.bountysource.com/badge/issue?issue_id={{ client.bountysource }}" />
-      </a>
-      {% else %}<img class="nobordernonation" src="https://img.shields.io/badge/bountysource-none%20yet-orange.svg" />{% endif %}
-    </td>
-
-    <td data-sort="{{ client.status | plus: 0 }}" class="progress">
-      <progress max="100" value="{{ client.status | plus: 0 }}"></progress>
-    </td>
-  </tr>
-  {% endfor %}
+{% include client_row.html %}
+{% endfor %}
 </table>
+
+# Client Details
+{% for client_hash in site.data.clients %}
+{% assign client = client_hash[1] %}
+{% include client_detail.html %}
+{% endfor %}
 
 #### Alternative OMEMO Plugins
 
