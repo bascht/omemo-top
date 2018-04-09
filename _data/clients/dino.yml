@@ -6,3 +6,4 @@ work_in_progress: yes
 testing: yes
 done: no
 status: 67
+os_support: [Linux]
