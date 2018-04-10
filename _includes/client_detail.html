@@ -5,6 +5,19 @@
         <a href="{{ client.url }}" alt="{{ client.name }} website">{{ client.url }}</a>
     </dd>
 
+    {% if client.status == 100 %}
+    <dt>Progress</dt>
+    <dd>
+        Hooray! OMEMO is supported!
+    </dd>
+    {% endif %}
+    {% if client.declined %}
+    <dt>Progress</dt>
+    <dd>
+        Sadly, they have decided not to support OMEMO.
+    </dd>
+    {% endif %}
+
     {% if client.tracking_issue %}
     <dt>Tracking Issue</dt>
     <dd>
