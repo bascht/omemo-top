@@ -4,7 +4,7 @@
         {% if client.tracking_issue %}<a href="{{ client.tracking_issue }}">{% endif %}
             {% if client.status == 100 %}🎉
             {% elsif client.declined %}😭
-            {% elsif client.tracking_issue %}✪
+            {% elsif client.tracking_issue %}🔖
             {% else %}❓{% endif %}
         {% if client.tracking_issue %}</a>{% endif %}
     </td>
