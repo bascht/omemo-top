@@ -1,3 +1,6 @@
 name: Swift
 url: https://swift.im/
 tracking_issue: https://github.com/swift/swift/issues/37
+declined: yes
+status: 0
+os_support: [Windows,Linux,MacOS]
