@@ -37,7 +37,7 @@ The last update was **{{ 'now' | date: "%Y-%m-%d" }}**.
 
 * Anderchat, Spark, Jitsi, Kontalk and Xabber can use [Smack](https://igniterealtime.org/projects/smack/index.jsp) [#743](https://issues.igniterealtime.org/browse/SMACK-743)<br/>
 * Empathy has a separate upstream issue open at [Telepathy](https://telepathy.freedesktop.org/): [#93090](https://bugs.freedesktop.org/show_bug.cgi?id=93090)<br/>
-* Pidgin has an alternative Plugin named [lurch](https://github.com/gkdr/lurch).
+* Pidgin has two plugins: [lurch](https://github.com/gkdr/lurch) and [libpurple-omemo-plugin](https://github.com/manchito/libpurple-omemo-plugin).
 
 ### Have something to add / update?
 
