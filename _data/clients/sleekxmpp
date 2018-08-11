@@ -1,0 +1,5 @@
+name: SleekXMPP
+url: http://sleekxmpp.com/
+work_in_progress: yes
+status: 90
+tracking_issue: https://gitlab.com/ecartman/sleekxmpp-omemo-plugin
