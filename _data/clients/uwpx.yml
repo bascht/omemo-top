@@ -1,0 +1,8 @@
+name: UWPX
+url: https://uwpx.org/
+tracking_issue: https://github.com/UWPX/UWPX-Client/issues/5
+work_in_progress: yes
+testing: no
+done: no
+status: 45
+os_support: [Windows]
