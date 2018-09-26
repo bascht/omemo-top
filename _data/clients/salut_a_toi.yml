@@ -4,4 +4,4 @@ tracking_issue: https://bugs.goffi.org/show_bug.cgi?id=180
 work_in_progress: yes
 done: no
 status: 70
-os_support: [Android(WIP),BSD,Linux,macOS,Windows]
+os_support: [Android,BSD,Linux,macOS,Windows]
