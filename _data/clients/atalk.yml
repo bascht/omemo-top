@@ -1,6 +1,5 @@
 name: aTalk
 url: https://play.google.com/store/apps/details?id=org.atalk.android&hl=en
-tracking_issue: https://github.com/cmeng-git/atalk-android/issues
 work_in_progress: yes
 testing: yes
 done: yes
