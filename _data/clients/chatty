@@ -1,0 +1,7 @@
+name: Chatty (Purism OS only)
+url: https://puri.sm/
+tracking_issue: "https://puri.sm/posts/librem5-progress-report-19/"     
+work_in_progress: yes   
+testing: yes        
+done: no   
+status: 20
