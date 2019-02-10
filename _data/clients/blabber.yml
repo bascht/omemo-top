@@ -1,0 +1,9 @@
+
+name: Blabber.im
+url: https://blabber.im/
+tracking_issue: "https://blabber.im/blabber-im-app-first-look/"     
+work_in_progress: yes   
+testing: yes        
+done: no   
+status: 30
+os_support: [Android,iOS]
