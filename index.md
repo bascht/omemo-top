@@ -4,7 +4,7 @@ layout: default
 <a href="https://omemo.top"><img src="./assets/images/omemo_logo.png"
 id="omemo_logo" class="nobordernonation" /></a>
 
-This list displays the progress of [OMEMO](https://conversations.im/omemo/)
+This list displays the progress of [OMEMO](https://xmpp.org/extensions/xep-0384.html)
 integration in various XMPP clients. If you cannot find your favourite
 client in here, please [send a pull request](#have-something-to-add--update).
 The last update was **{{ 'now' | date: "%Y-%m-%d" }}**.
