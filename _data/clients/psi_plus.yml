@@ -1,5 +1,6 @@
 name: Psi+
 work_in_progress: yes
-status: 90
+status: 10
+done: yes
 url: http://psi-plus.com/
 tracking_issue: https://github.com/psi-plus/plugins/issues/10
