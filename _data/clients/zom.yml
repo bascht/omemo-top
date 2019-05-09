@@ -4,3 +4,4 @@ tracking_issue: https://github.com/zom/Zom-Android/issues/119
 work_in_progress: yes
 bountysource: 36057445
 status: 100
+os_support: [Android,iOS]

@@ -3,3 +3,4 @@ url: https://developer.pidgin.im/wiki/Using%20Finch
 work_in_progress: yes
 testing: yes
 status: 67
+os_support: [Linux]

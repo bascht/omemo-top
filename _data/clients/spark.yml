@@ -1,3 +1,4 @@
 name: Spark
 url: https://igniterealtime.org/projects/spark/
-tracking_issue: https://github.com/igniterealtime/Spark/issues/291
+tracking_issue: https://issues.igniterealtime.org/browse/SPARK-1866
+os_support: [Linux,macOS,Windows]

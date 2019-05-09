@@ -1,7 +1,8 @@
 name: Kaidan
-url: https://git.kaidan.im/kaidan/kaidan
+url: https://www.kaidan.im/
 tracking_issue: https://git.kaidan.im/kaidan/kaidan/issues/254
 work_in_progress: yes
 testing: no
 done: no
 status: 0
+os_support: [Android,Linux,Windows]

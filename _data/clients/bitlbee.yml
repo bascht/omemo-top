@@ -2,3 +2,4 @@ name: BitlBee
 url: https://www.bitlbee.org/
 tracking_issue: https://bugs.bitlbee.org/ticket/1239
 bountysource: 47491511
+os_support: [BSD,Linux]

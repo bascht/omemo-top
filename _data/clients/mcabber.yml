@@ -1,3 +1,4 @@
 name: Mcabber
 url: https://mcabber.com/
 tracking_issue: https://bitbucket.org/McKael/mcabber-crew/issues/156
+os_support: [BSD,Linux,macOS]
