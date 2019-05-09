@@ -6,4 +6,4 @@ work_in_progress: yes
 testing: yes
 done: yes
 status: 100
-os_support: [iOS, OSX]
+os_support: [iOS, MacOS]
