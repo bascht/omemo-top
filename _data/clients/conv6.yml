@@ -1,0 +1,7 @@
+name: Conversations with IPv6
+url: https://f-droid.org/en/packages/eu.sum7.conversations
+work_in_progress: yes
+testing: yes
+done: yes
+status: 100
+os_support: [Android]
