@@ -1,3 +1,4 @@
 name: Empathy
 url: https://wiki.gnome.org/action/show/Apps/Empathy
 tracking_issue: https://gitlab.gnome.org/GNOME/empathy/issues/851
+os_support: [Linux]
