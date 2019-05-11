@@ -1,3 +1,4 @@
 name: Tor Messenger
 url: https://trac.torproject.org/projects/tor/wiki/doc/TorMessenger
 tracking_issue: https://trac.torproject.org/projects/tor/ticket/17457
+os_support: [Linux,macOS]

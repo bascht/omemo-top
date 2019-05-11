@@ -1,7 +1,6 @@
----
 name: Coy.im
 url: https://coy.im/
 tracking_issue: https://github.com/coyim/coyim/issues/233#issuecomment-212000432
 declined: yes
 status: 0
-os_support: [Windows,Linux,MacOS]
+os_support: [Linux,macOS,Windows]
