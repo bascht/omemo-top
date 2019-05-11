@@ -1,3 +1,4 @@
 name: yaxim
 url: https://yaxim.org/
 tracking_issue: https://github.com/pfleidi/yaxim/issues/197
+os_support: [Android]

@@ -1,3 +1,4 @@
 name: Jappix
-url: https://jappix.org/
+url: https://github.com/jappix/jappix
 tracking_issue: https://github.com/jappix/jappix/issues/305
+os_support: [Browser]

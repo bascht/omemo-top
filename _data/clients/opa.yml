@@ -1,0 +1,8 @@
+name: Opa     
+url: https://www.credija.com.br/opa-demo/    
+tracking_issue: "https://github.com/credija/opa/issues/24"             
+work_in_progress: yes        
+testing: yes            
+done: no         
+status: 0    
+os_support: [Web]
