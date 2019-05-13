@@ -5,6 +5,7 @@
             {% if client.status == 100 %}<span title="OMEMO is fully supported">🎉</span>
             {% elsif client.declined %}<span title="Client will not support OMEMO">😭</span>
             {% elsif client.tracking_issue %}<span title="Client is working on OMEMO support">🔖</span>
+            {% elsif client.status_inactive %}<span title="Client is likely inactive">:pause_button:</span>
             {% else %}❓{% endif %}
         {% if client.tracking_issue %}</a>{% endif %}
     </td>
