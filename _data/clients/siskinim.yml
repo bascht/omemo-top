@@ -1,0 +1,7 @@
+name: Siskin IM by Tigase, Inc.
+url: https://siskin.im/
+tracking_issue: "https://tigase.tech/issues/7511"
+work_in_progress: yes   
+done: no   
+status: 100
+os_support: [iOS]

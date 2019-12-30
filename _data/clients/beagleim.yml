@@ -1,0 +1,7 @@
+name: Beagle IM by Tigase, Inc.
+url: https://beagle.im/
+tracking_issue: "https://tigase.tech/issues/8837"
+work_in_progress: yes   
+done: no   
+status: 100
+os_support: [macOS]

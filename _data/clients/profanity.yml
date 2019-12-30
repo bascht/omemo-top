@@ -4,4 +4,5 @@ tracking_issue: https://github.com/boothj5/profanity/issues/658
 bountysource: 27781988
 work_in_progress: yes
 testing: yes
-status: 67
+status: 100
+os_support: [BSD,Linux,macOS]

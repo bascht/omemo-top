@@ -2,5 +2,6 @@ name: aTalk
 url: https://play.google.com/store/apps/details?id=org.atalk.android&hl=en
 work_in_progress: yes
 testing: yes
-done: no
-status: 80
+done: yes
+status: 100
+os_support: [Android]
