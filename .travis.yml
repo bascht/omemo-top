@@ -3,4 +3,5 @@ sudo: false
 cache: bundler
 rvm:
   - 2.4.1
-script: "gem install bundler:1.16.1 && bundle exec ruby test.rb"
+before_install: "gem install bundler:1.16.1"
+script: "bundle exec ruby test.rb"
