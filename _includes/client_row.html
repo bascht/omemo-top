@@ -2,9 +2,9 @@
     <td><a href="#{{ client.name }}" alt="{{ client.name }}">{{ client.name }}</a></td>
     <td>
         {% if client.tracking_issue %}<a href="{{ client.tracking_issue }}">{% endif %}
-            {% if client.status == 100 %}<span title="OMEMO is fully supported">🎉</span>
+            {% if client.status == 100 %}<span title="OMEMO is supported">🎉</span>
             {% elsif client.declined %}<span title="Client will not support OMEMO">😭</span>
-            {% elsif client.tracking_issue %}<span title="Client is working on OMEMO support">🔖</span>
+            {% elsif client.tracking_issue %}<span title="Developer working to support OMEMO">🔧</span>
             {% else %}❓{% endif %}
         {% if client.tracking_issue %}</a>{% endif %}
     </td>
