@@ -15,7 +15,8 @@ describe "omemo.top" do
 
     it "should have at least one Client in it" do
       h = Nokogiri::HTML.parse(open("_site/index.html"))
-      assert_equal h.title, "Are we OMEMO yet?"
+      assert_equal h.title, "Are we OMEMO yet? | Tracking the progress of OMEMO integration in XMPP clients."
+      assert_equal h.xpath("//a[@href='#Dino']").length, 1
     end
   end
 end
