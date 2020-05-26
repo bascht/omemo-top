@@ -2,6 +2,7 @@ name: Salut à Toi
 url: https://salut-a-toi.org/
 tracking_issue: https://bugs.goffi.org/show_bug.cgi?id=180
 work_in_progress: yes
-done: no
-status: 70
-os_support: [Android(WIP),BSD,Linux,macOS,Windows]
+testing: yes
+done: yes
+status: 100
+os_support: [Android,BSD,Linux,macOS,Windows]

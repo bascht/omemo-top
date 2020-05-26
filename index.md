@@ -53,7 +53,7 @@ send a pull request.
 
 ---
 
-A project by [@renevolution](https://github.com/renevolution)
+A project by [@renevolution](https://github.com/renevolution), [@Echolon](https://github.com/Echolon)
 and [@bascht](https://github.com/bascht).
 
 <script src="//cdnjs.cloudflare.com/ajax/libs/tablesort/5.0.0/tablesort.min.js"></script>
