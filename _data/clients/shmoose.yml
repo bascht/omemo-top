@@ -1,3 +1,7 @@
 name: Shmoose
-url: https://openrepos.net/content/schorsch/shmoose
+url: https://github.com/geobra/harbour-shmoose
+tracking_issue: https://github.com/geobra/harbour-shmoose/issues/57
+work_in_progress: yes
+done: no
+status: 50
 os_support: [SailfishOS]
