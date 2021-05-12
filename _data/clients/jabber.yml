@@ -1,0 +1,8 @@
+name: jabber.el
+url: http://emacs-jabber.sourceforge.net/
+tracking_issue: https://github.com/legoscia/emacs-jabber/issues/31
+work_in_progress: no
+testing: no
+done: no
+status: 0
+os_support: [Linux,macOS,Windows,Android]
