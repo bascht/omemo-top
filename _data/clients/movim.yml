@@ -2,6 +2,6 @@ name: Movim
 url: https://movim.eu/
 tracking_issue: https://github.com/movim/movim/issues/63
 bountysource: 27538550
-work_in_progress: no
-status: 0
-os_support: [Android,Linux,macOS,Windows]
+work_in_progress: yes
+status: 40
+os_support: [Browser,Android,Linux,macOS,Windows]
