@@ -35,7 +35,7 @@ The last update was **{{ 'now' | date: "%Y-%m-%d" }}**.
 
 #### Alternative OMEMO Plugins
 
-* Empathy has a separate upstream issue open at [Telepathy](https://telepathy.freedesktop.org/): [#93090](https://bugs.freedesktop.org/show_bug.cgi?id=93090)<br/>
+* Empathy has a separate upstream issue open at [Telepathy](https://telepathy.freedesktop.org/): [#93090](https://gitlab.freedesktop.org/telepathy/telepathy-gabble/-/issues/279)<br/>
 * Pidgin has two plugins: [lurch](https://github.com/gkdr/lurch) and [libpurple-omemo-plugin](https://github.com/manchito/libpurple-omemo-plugin).
 
 #### Libraries
