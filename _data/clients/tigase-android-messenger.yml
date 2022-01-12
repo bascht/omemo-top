@@ -1,7 +1,0 @@
-name: Tigase Android Messenger
-url: https://tigase.tech/projects/tigase-mobilemessenger
-tracking_issue: "https://tigase.tech/issues/8838"
-work_in_progress: yes   
-done: no   
-status: 0
-os_support: [Android]
