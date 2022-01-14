@@ -1,4 +1,4 @@
-name: Irssi
-url: http://cybione.org/~irssi-xmpp/
+name: Irssi (XMPP plugin)
+url: https://github.com/cdidier/irssi-xmpp
 tracking_issue: https://github.com/cdidier/irssi-xmpp/issues/8
 os_support: [BSD,Linux]
