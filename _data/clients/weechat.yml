@@ -1,4 +1,5 @@
 name: WeeChat (XMPP plugin)
 url: https://github.com/bqv/weechat-xmpp/
+status: 100
 done: yes
 os_support: [BSD,Linux,macOS]
