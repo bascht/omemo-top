@@ -6,4 +6,4 @@ work_in_progress: yes
 testing: yes
 done: no
 status: 60
-os_support: [Linux,macOS,Windows]
+os_support: [BSD,Linux,macOS,Windows]
