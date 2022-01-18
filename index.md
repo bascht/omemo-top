@@ -40,6 +40,7 @@ The last update was **{{ 'now' | date: "%Y-%m-%d" }}**.
 
 #### Libraries
 
+* Deprecated: [SleekXMPP](https://github.com/fritzy/SleekXMPP) ([OMEMO](https://gitlab.com/ecartman/sleekxmpp-omemo-plugin))
 * [Slixmpp](https://lab.louiz.org/poezio/slixmpp) ([OMEMO](https://lab.louiz.org/poezio/slixmpp-omemo))
 * [Smack](https://github.com/igniterealtime/Smack) ([OMEMO](https://github.com/igniterealtime/Smack/tree/master/smack-omemo))
 
