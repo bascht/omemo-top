@@ -1,7 +1,6 @@
 name: BombusMod
 url: https://github.com/BombusMod/BombusMod
-work_in_progress: no
-testing: no
-done: no
+tracking_issue: https://github.com/BombusMod/BombusMod/issues/125
+declined: yes
 status: 0
 os_support: [Android]
