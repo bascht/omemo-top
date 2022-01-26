@@ -1,6 +1,6 @@
 name: ChatSecure
 url: https://chatsecure.org/
-tracking_issue: "https://github.com/ChatSecure/ChatSecure-iOS/issues/580"
+tracking_issue: https://github.com/ChatSecure/ChatSecure-iOS/issues/580
 work_in_progress: yes
 testing: yes
 done: yes
