@@ -1,6 +1,6 @@
 name: Vacuum-IM
 url: http://www.vacuum-im.org/
-tracking_issue: "https://github.com/Vacuum-IM/vacuum-im/issues/895"
+tracking_issue: https://github.com/Vacuum-IM/vacuum-im/issues/895
 work_in_progress: no
 testing: no
 done: no

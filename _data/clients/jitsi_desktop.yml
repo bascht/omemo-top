@@ -1,0 +1,9 @@
+name: Jitsi Desktop
+url: https://desktop.jitsi.org/
+tracking_issue: https://github.com/jitsi/jitsi/issues/199
+bountysource: 29398390
+work_in_progress: no
+testing: no
+done: no
+status: 0
+os_support: [Linux,macOS,Windows]

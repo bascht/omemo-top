@@ -1,6 +1,6 @@
 name: Adium
 url: https://adium.im/
-tracking_issue: "https://trac.adium.im/ticket/17090"
+tracking_issue: https://trac.adium.im/ticket/17090
 testing: yes
 status: 50
 os_support: [macOS]

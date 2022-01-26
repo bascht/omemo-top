@@ -1,8 +1,8 @@
-name: Opa     
-url: https://github.com/credija/opa    
-tracking_issue: "https://github.com/credija/opa/issues/24"             
-work_in_progress: yes        
-testing: yes            
-done: no         
-status: 0    
+name: Opa
+url: https://github.com/credija/opa
+tracking_issue: https://github.com/credija/opa/issues/24
+work_in_progress: yes
+testing: yes
+done: no
+status: 0
 os_support: [Web]

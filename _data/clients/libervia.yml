@@ -1,6 +1,6 @@
-name: Salut à Toi
+name: Libervia (formerly Salut à Toi)
 url: https://salut-a-toi.org/
-tracking_issue: https://bugs.goffi.org/show_bug.cgi?id=180
+tracking_issue: https://www.goffi.org/tickets/view/180
 work_in_progress: yes
 testing: yes
 done: yes
