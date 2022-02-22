@@ -3,5 +3,6 @@ url: https://movim.eu/
 tracking_issue: https://github.com/movim/movim/issues/63
 bountysource: 27538550
 work_in_progress: yes
-status: 40
+done: yes
+status: 100
 os_support: [Browser,Android,Linux,macOS,Windows]
