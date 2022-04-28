@@ -1,7 +1,7 @@
 name: Psi
 url: https://psi-im.org/
+tracking_issue: https://github.com/psi-im/plugins/issues/84
 work_in_progress: yes
-status: 100
-done: yes
-tracking_issue: https://github.com/psi-im/plugins/issues/10
+done: no
+status: 84
 os_support: [Linux,macOS,Windows]
