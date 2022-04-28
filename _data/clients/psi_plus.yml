@@ -1,7 +1,7 @@
 name: Psi+
-work_in_progress: yes
-status: 100
-done: yes
 url: https://psi-plus.com/
-tracking_issue: https://github.com/psi-plus/plugins/issues/10
+tracking_issue: https://github.com/psi-im/plugins/issues/84
+work_in_progress: yes
+done: no
+status: 84
 os_support: [Haiku,Linux,macOS,Windows]
