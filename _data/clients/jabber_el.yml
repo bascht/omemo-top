@@ -1,6 +1,6 @@
 name: jabber.el
-url: http://emacs-jabber.sourceforge.net/
-tracking_issue: https://github.com/legoscia/emacs-jabber/issues/31
+url: https://codeberg.org/emacs-jabber/emacs-jabber
+tracking_issue: https://codeberg.org/emacs-jabber/emacs-jabber/issues/9
 work_in_progress: no
 testing: no
 done: no
