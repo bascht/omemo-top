@@ -1,5 +1,4 @@
 name: Thunderbird (Chat Core)
 url: https://developer.mozilla.org/docs/Chat_Core
 tracking_issue: https://bugzilla.mozilla.org/show_bug.cgi?id=1237416
-bountysource: 29687088
 os_support: [Linux,macOS,Windows]
