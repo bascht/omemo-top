@@ -24,14 +24,6 @@
         <a href="{{ client.tracking_issue }}">{{client.tracking_issue}}</a>
     </dd>
     {% endif %}
-    <dt>Bounty</dt>
-    <dd>
-        {% if client.bountysource %}
-        <a href="https://www.bountysource.com/issues/{{ client.bountysource }}">
-            <img class="nobordernonation" src="https://api.bountysource.com/badge/issue?issue_id={{ client.bountysource }}" />
-        </a>
-        {% else %}<img class="nobordernonation" src="https://img.shields.io/badge/bountysource-none%20yet-orange.svg" />{% endif %}
-    </dd>
 
     {% if client.os_support %}
     <dt>OS Support</dt>
