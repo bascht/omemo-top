@@ -39,13 +39,13 @@ The last update was **{{ 'now' | date: "%Y-%m-%d" }}**.
 
 #### Libraries
 
-* Deprecated: [SleekXMPP](https://github.com/fritzy/SleekXMPP) ([OMEMO](https://gitlab.com/ecartman/sleekxmpp-omemo-plugin))
-* [Slixmpp](https://lab.louiz.org/poezio/slixmpp) ([OMEMO](https://lab.louiz.org/poezio/slixmpp-omemo))
+* [Slixmpp](https://codeberg.org/poezio/slixmpp) ([OMEMO](https://codeberg.org/poezio/slixmpp-omemo))
 * [Smack](https://github.com/igniterealtime/Smack) ([OMEMO](https://github.com/igniterealtime/Smack/tree/master/smack-omemo))
 * [JaXMPP](https://github.com/tigase/jaxmpp) ([OMEMO](https://github.com/tigase/jaxmpp/tree/master/jaxmpp-omemo))
 * [Halcyon](https://github.com/tigase/halcyon) ([OMEMO](https://github.com/tigase/jaxmpp/tree/master/jaxmpp-omemo))
 * [Martin -tigase-swift-](https://github.com/tigase/tigase-swift) ([OMEMO](https://github.com/tigase/tigase-swift-omemo))
 * [QXmpp](https://github.com/qxmpp-project/qxmpp) ([OMEMO](https://github.com/qxmpp-project/qxmpp/tree/master/src/omemo))
+* Deprecated: [SleekXMPP](https://github.com/fritzy/SleekXMPP) ([OMEMO](https://gitlab.com/ecartman/sleekxmpp-omemo-plugin))
 
 ### Have something to add / update?
 
