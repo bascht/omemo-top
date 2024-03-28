@@ -1,0 +1,7 @@
+name: Squawk
+url: https://macaw.me/projects/squawk/
+tracking_issue: https://git.macaw.me/blue/squawk/issues/71
+work_in_progress: yes
+done: no
+status: 60
+os_support: [Linux]
