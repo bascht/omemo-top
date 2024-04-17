@@ -1,4 +1,4 @@
 name: Instantbird
 url: http://www.instantbird.com/
-tracking_issue: https://developer.pidgin.im/ticket/16801
+tracking_issue: https://issues.imfreedom.org/issue/PIDGIN-16801
 os_support: [Linux,macOS,Windows]
