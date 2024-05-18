@@ -4,3 +4,5 @@ tracking_issue: https://github.com/jsxc/jsxc/issues/228
 work_in_progress: yes
 os_support: [Browser]
 status: 100
+implementation_version: '4.0.0'
+implementation_date: '2020-04-08'
