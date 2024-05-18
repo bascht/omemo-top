@@ -6,3 +6,5 @@ testing: yes
 done: yes
 status: 100
 os_support: [Browser]
+implementation_version: '4.0.0'
+implementation_date: '2018-09-07'

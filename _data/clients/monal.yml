@@ -6,3 +6,5 @@ testing: yes
 done: yes
 status: 100
 os_support: [iOS,macOS]
+implementation_version: '2.2'
+implementation_date: '2018-09-08'

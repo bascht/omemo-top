@@ -5,3 +5,5 @@ work_in_progress: yes
 testing: yes
 status: 100
 os_support: [BSD,Linux,macOS]
+implementation_version: '0.7.0'
+implementation_date: '2019-07-31'
