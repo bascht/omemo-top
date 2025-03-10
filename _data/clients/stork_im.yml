@@ -4,3 +4,4 @@ tracking_issue: https://projects.tigase.net/issue/stork-265
 done: yes
 status: 100
 os_support: [Android]
+implementation_version: '3.0.26'

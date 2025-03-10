@@ -5,3 +5,5 @@ testing: yes
 done: yes
 status: 100
 os_support: [Android]
+implementation_version: '1.0.1'
+implementation_date: '2018-01-07'

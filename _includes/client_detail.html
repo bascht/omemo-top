@@ -18,6 +18,13 @@
     </dd>
     {% endif %}
 
+    {% if client.implementation_version %}
+    <dt>Implementation</dt>
+    <dd>
+	Implemented since version {{ client.implementation_version }}{% if client.implementation_date %} ({{ client.implementation_date }}){% endif %}
+    </dd>
+    {% endif %}
+
     {% if client.tracking_issue %}
     <dt>Tracking Issue</dt>
     <dd>

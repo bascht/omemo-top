@@ -3,3 +3,5 @@ url: https://github.com/bqv/weechat-xmpp/
 status: 100
 done: yes
 os_support: [BSD,Linux,macOS]
+implementation_version: '8759d96'
+implementation_date: '202-01-10'

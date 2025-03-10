@@ -6,3 +6,5 @@ testing: yes
 done: yes
 status: 100
 os_support: [BSD,Linux]
+implementation_version: '0.1.0'
+implementation_date: '2020-01-29'

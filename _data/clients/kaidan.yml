@@ -6,3 +6,5 @@ testing: yes
 done: yes
 status: 100
 os_support: [Android,Linux,macOS,Windows]
+implementation_version: '0.9.0'
+implementation_date: '2023-04-30'

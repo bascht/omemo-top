@@ -4,3 +4,5 @@ tracking_issue: https://projects.tigase.net/issue/beagleim-47
 done: yes
 status: 100
 os_support: [macOS]
+implementation_version: '3.0'
+implementation_date: '2019-06-06'

@@ -4,4 +4,5 @@ work_in_progress: yes
 testing: yes
 done: yes
 status: 100
-os_support: [Android]
+os_support: [Android,iOS]
+implementation_version: '1.6.0 / 1.1'
